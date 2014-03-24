@@ -1,0 +1,1800 @@
+<Synsets>
+<Synset gloss="the national flag of the United States of America" hint="American_flag" id="SID-02701566-N">
+<Model path="Objects/Flag.a2c"/>
+</Synset>
+<Synset gloss="Egyptian god of tombs and ruler of the underworld; usually depicted as a man with the head of a jackal" hint="Anubis" id="SID-09511712-N">
+<Model path="Egypt/Anubis.a2c"/>
+</Synset>
+<Synset gloss="a stand-alone piece of electronic equipment that either has its own display or attaches to a television set" hint="CD_player" id="SID-02988304-N">
+<Model path="Objects/CdPlayer.a2c"/>
+</Synset>
+<Synset gloss="a fictional cat with a broad fixed smile on its face; created by Lewis Carroll" hint="Cheshire_cat" id="SID-09591676-N">
+<Model path="Animals/CheshireCat.a2c"/>
+</Synset>
+<Synset gloss="an ornamented evergreen used as a Christmas decoration" hint="Christmas_tree" id="SID-03026626-N">
+<Model path="Holidays/Christmas/ChristmasTree.a2c"/>
+</Synset>
+<Synset gloss="a fictional young girl who is saved from her stepmother and stepsisters by her fairy godmother and a handsome prince" hint="Cinderella" id="SID-09591973-N">
+<Model path="People/Walking People/Cinderella.a2c"/>
+<Model path="People/Cinderella.a2c"/>
+</Synset>
+<Synset gloss="beautiful and charismatic queen of Egypt; mistress of Julius Caesar and later of Mark Antony; killed herself to avoid capture by Octavian (69-30 BC)" hint="Cleopatra" id="SID-10901827-N">
+<Model path="Egypt/Cleopatra.a2c"/>
+</Synset>
+<Synset gloss="a native or inhabitant of Egypt" hint="Egyptian" id="SID-09700492-N">
+<Model path="Ancient/Egyptian.a2c"/>
+</Synset>
+<Synset gloss="a deity worshipped by the ancient Egyptians" hint="Egyptian_deity" id="SID-09510904-N">
+<Model path="Egypt/Isis.a2c"/>
+</Synset>
+<Synset gloss="street name for lysergic acid diethylamide" hint="Elvis" id="SID-02675657-N">
+<Model path="Objects/ElvisPez.a2c"/>
+</Synset>
+<Synset gloss="a member of a people inhabiting the Arctic (northern Canada or Greenland or Alaska or eastern Siberia); the Algonquians called them Eskimo (`eaters of raw flesh') but they call themselves the Inuit (`the people')" hint="Eskimo" id="SID-10063635-N">
+<Model path="People/Walking People/EskimoGirl.a2c"/>
+<Model path="People/Eskimo.a2c"/>
+<Model path="People/EskimoGirl.a2c"/>
+</Synset>
+<Synset gloss="one of the greatest tragic dramatists of ancient Greece (480-406 BC)" hint="Euripides" id="SID-10962712-N">
+<Model path="People/Euripides.a2c"/>
+</Synset>
+<Synset gloss="a vertical rotating mechanism consisting of a large wheel with suspended seats that remain upright as the wheel rotates; provides a ride at an amusement park" hint="Ferris_wheel" id="SID-03329302-N">
+<Model path="Amusement Park/FerrisWheel.a2c"/>
+</Synset>
+<Synset gloss="a light, plastic disk about 10 inches in diameter; propelled with a flip of the wrist for recreation or competition" hint="Frisbee" id="SID-03397947-N">
+<Model path="Sports/Frisbee.a2c"/>
+</Synset>
+<Synset gloss="a high mobility, multipurpose, military vehicle with four-wheel drive" hint="Humvee" id="SID-03549199-N">
+<Model path="Vehicles/Humvee.a2c"/>
+</Synset>
+<Synset gloss="the leader of a group of Native Americans" hint="Indian_chief" id="SID-10203298-N">
+<Model path="Hawaii/People/Chief.a2c"/>
+</Synset>
+<Synset gloss="the ship in which the Pilgrim Fathers sailed from England to Massachusetts in 1620" hint="Mayflower" id="SID-03732992-N">
+<Model path="Pilgrims/Mayflower.a2c"/>
+</Synset>
+<Synset gloss="a land mass that projects well above its surroundings; higher than a hill" hint="Mount_Fuji" id="SID-09359803-N">
+<Model path="Japan/MtFuji.a2c"/>
+</Synset>
+<Synset gloss="any member of the peoples living in North or South America before the Europeans arrived" hint="Native_American" id="SID-09644820-N">
+<Model path="Old West/NativeAmerican.a2c"/>
+<Model path="People/Walking People/NativeAmerican.a2c"/>
+<Model path="Pilgrims/NativeAmericanBoy.a2c"/>
+<Model path="Pilgrims/NativeAmericanGirl.a2c"/>
+<Model path="Pilgrims/NativeAmericanMan.a2c"/>
+<Model path="Pilgrims/NativeAmericanWoman.a2c"/>
+</Synset>
+<Synset gloss="the title of the ancient Egyptian kings" hint="Pharaoh" id="SID-10421016-N">
+<Model path="Egypt/Pharaoh.a2c"/>
+</Synset>
+<Synset gloss="ancient Athenian philosopher; pupil of Socrates; teacher of Aristotle (428-347 BC)" hint="Plato" id="SID-11239271-N">
+<Model path="People/Plato.a2c"/>
+</Synset>
+<Synset gloss="a massive monument with a square base and four triangular sides; begun by Cheops around 2700 BC as royal tombs in ancient Egypt" hint="Pyramid" id="SID-04029125-N">
+<Model path="Egypt/Pyramid.a2c"/>
+</Synset>
+<Synset gloss="ancient Egyptian sun god with the head of a hawk; a universal creator; he merged with the god Amen as Amen-Ra to become the king of the gods" hint="Ra" id="SID-09513216-N">
+<Model path="Egypt/Ra.a2c"/>
+</Synset>
+<Synset gloss="ancient Athenian philosopher; teacher of Plato and Xenophon (470-399 BC)" hint="Socrates" id="SID-11307422-N">
+<Model path="People/Socrates.a2c"/>
+</Synset>
+<Synset gloss="large carnivorous bipedal dinosaur having enormous teeth with knifelike serrations; may have been a scavenger rather than an active predator; later Cretaceous period in North America" hint="Tyrannosaurus_rex" id="SID-01713764-N">
+<Model path="Animals/Dinosaurs/Trex.a2c"/>
+<Model path="Animals/Trex.a2c"/>
+</Synset>
+<Synset gloss="a magnetic tape recorder for recording (and playing back) TV programs" hint="VCR" id="SID-04533802-N">
+<Model path="Objects/Vcr.a2c"/>
+</Synset>
+<Synset gloss="the trademark for a machine that smooths the ice in an ice-skating rink" hint="Zamboni" id="SID-04613939-N">
+<Model path="Vehicles/Zamboni.a2c"/>
+</Synset>
+<Synset gloss="(Greek mythology) the supreme god of ancient Greek mythology; son of Rhea and Cronus whom he dethroned; husband and brother of Hera; brother of Poseidon and Hades; father of many gods; counterpart of Roman Jupiter" hint="Zeus" id="SID-09573682-N">
+<Model path="People/Walking People/Zeus.a2c"/>
+<Model path="People/Zeus.a2c"/>
+</Synset>
+<Synset gloss="a large warship that carries planes and has a long flat deck for takeoffs and landings" hint="aircraft_carrier" id="SID-02687172-N">
+<Model path="Vehicles/Carrier.a2c"/>
+</Synset>
+<Synset gloss="an aircraft that has a fixed wing and is powered by propellers or jets; &quot;the flight was delayed due to trouble with the airplane&quot;" hint="airplane" id="SID-02691156-N">
+<Model path="Vehicles/Boeing707.a2c"/>
+</Synset>
+<Synset gloss="an airfield equipped with control tower and hangars as well as accommodations for passengers and cargo" hint="airport" id="SID-02692232-N">
+<Model path="Buildings/Airport.a2c"/>
+</Synset>
+<Synset gloss="a clock that wakes a sleeper at some preset time" hint="alarm_clock" id="SID-02694662-N">
+<Model path="Objects/AlarmClock.a2c"/>
+</Synset>
+<Synset gloss="a form of life assumed to exist outside the Earth or its atmosphere" hint="alien" id="SID-09484465-N">
+<Model path="SciFi/AlienOnWheels.a2c"/>
+</Synset>
+<Synset gloss="a vehicle that takes people to and from hospitals" hint="ambulance" id="SID-02701002-N">
+<Model path="Vehicles/Ambulance.a2c"/>
+</Synset>
+<Synset gloss="spiritual being attendant upon God" hint="angel" id="SID-09538915-N">
+<Model path="Ancient/Angel.a2c"/>
+</Synset>
+<Synset gloss="social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers" hint="ant" id="SID-02219486-N">
+<Model path="Animals/Bugs/Ant.a2c"/>
+</Synset>
+<Synset gloss="a heavy block of iron or steel on which hot metals are shaped by hammering" hint="anvil" id="SID-02725872-N">
+<Model path="Objects/Anvil.a2c"/>
+</Synset>
+<Synset gloss="a suite of rooms usually on one floor of an apartment house" hint="apartment" id="SID-02726305-N">
+<Model path="Buildings/SmallApertmentBuilding.a2c"/>
+</Synset>
+<Synset gloss="native Eurasian tree widely cultivated in many varieties for its firm rounded edible fruits" hint="apple" id="SID-12633994-N">
+<Model path="Ancient/AppleTree.a2c"/>
+</Synset>
+<Synset gloss="a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb" hint="arm" id="SID-05563770-N">
+<Model path="People/LeftArm.a2c"/>
+<Model path="People/RightArm.a2c"/>
+</Synset>
+<Synset gloss="chair with a support on each side for arms" hint="armchair" id="SID-02738535-N">
+<Model path="Furniture/ArmChair.a2c"/>
+</Synset>
+<Synset gloss="a projectile with a straight thin shaft and an arrowhead on one end and stabilizing vanes on the other; intended to be shot from a bow" hint="arrow" id="SID-02742753-N">
+<Model path="Hawaii/Arrow.a2c"/>
+<Model path="Pilgrims/Bowandarrow.a2c"/>
+</Synset>
+<Synset gloss="a person trained to travel in a spacecraft; &quot;the Russians called their astronauts cosmonauts&quot;" hint="astronaut" id="SID-09818022-N">
+<Model path="Space/Astronaut.a2c"/>
+<Model path="People/Astronaut.a2c"/>
+</Synset>
+<Synset gloss="the center around which something rotates" hint="axis" id="SID-02764614-N">
+<Model path="Shapes/Axes.a2c"/>
+</Synset>
+<Synset gloss="a very young child (birth to 1 year) who has not yet begun to walk or talk; &quot;the baby began to cry again&quot;; &quot;she held the baby in her arms&quot;; &quot;it sounds simple, but when you have your own baby it is all so different&quot;" hint="baby" id="SID-09827683-N">
+<Model path="Ancient/Baby.a2c"/>
+</Synset>
+<Synset gloss="young bird not yet fledged" hint="baby_bird" id="SID-01504344-N">
+<Model path="Animals/BirdBaby.a2c"/>
+</Synset>
+<Synset gloss="round object that is hit or thrown or kicked in games; &quot;the ball travelled 90 mph on his serve&quot;; &quot;the mayor threw out the first ball&quot;; &quot;the ball rolled into the corner pocket&quot;" hint="ball" id="SID-02778669-N">
+<Model path="Sports/ToyBall1.a2c"/>
+<Model path="Sports/ToyBall2.a2c"/>
+</Synset>
+<Synset gloss="a female ballet dancer" hint="ballerina" id="SID-09834592-N">
+<Model path="People/Walking People/BlueBallerina.a2c"/>
+<Model path="People/Walking People/PinkBallerina.a2c"/>
+<Model path="People/BlueBallerina.a2c"/>
+<Model path="People/PinkBallerina.a2c"/>
+</Synset>
+<Synset gloss="elongated crescent-shaped yellow fruit with soft sweet flesh" hint="banana" id="SID-07753592-N">
+<Model path="Kitchen/Food/Banana.a2c"/>
+</Synset>
+<Synset gloss="any distinctive flag" hint="banner" id="SID-04301140-N">
+<Model path="Medieval/Banner.a2c"/>
+</Synset>
+<Synset gloss="a bar to which heavy discs are attached at each end; used in weightlifting" hint="barbell" id="SID-02790996-N">
+<Model path="Objects/Barbell.a2c"/>
+</Synset>
+<Synset gloss="an outlying farm building for storing grain or animal feed and housing farm animals" hint="barn" id="SID-02793495-N">
+<Model path="Farm/Barn.a2c"/>
+</Synset>
+<Synset gloss="a ball game played with a bat and ball between two teams of nine players; teams take turns at bat trying to score runs; &quot;he played baseball in high school&quot;; &quot;there was a baseball game on every empty lot&quot;; &quot;there was a desire for National League ball in the area&quot;; &quot;play ball!&quot;" hint="baseball" id="SID-00471613-N">
+<Model path="Sports/Baseball.a2c"/>
+</Synset>
+<Synset gloss="an implement used in baseball by the batter" hint="baseball_bat" id="SID-02799175-N">
+<Model path="Sports/BaseballBat.a2c"/>
+<Model path="Sports/Bat.a2c"/>
+</Synset>
+<Synset gloss="the handwear used by fielders in playing baseball" hint="baseball_glove" id="SID-02800213-N">
+<Model path="Sports/BaseballGlove1.a2c"/>
+<Model path="Sports/BaseballGlove2.a2c"/>
+</Synset>
+<Synset gloss="an inflated ball used in playing basketball" hint="basketball" id="SID-02802426-N">
+<Model path="Sports/Basketball.a2c"/>
+</Synset>
+<Synset gloss="the guitar with six strings that has the lowest pitch" hint="bass_guitar" id="SID-02804123-N">
+<Model path="Musical Instruments/Bass.a2c"/>
+</Synset>
+<Synset gloss="a broadax used as a weapon" hint="battle-ax" id="SID-02811468-N">
+<Model path="Medieval/BattleAxe.a2c"/>
+</Synset>
+<Synset gloss="a house built on or near a beach" hint="beach_house" id="SID-02814338-N">
+<Model path="Beach/BeachHouse1.a2c"/>
+<Model path="Beach/BeachHouse2.a2c"/>
+<Model path="Buildings/BeachHouse2.a2c"/>
+</Synset>
+<Synset gloss="large and light ball; for play at the seaside" hint="beachball" id="SID-02814224-N">
+<Model path="Sports/BeachBall.a2c"/>
+</Synset>
+<Synset gloss="a folding chair for use outdoors; a wooden frame supports a length of canvas" hint="beachchair" id="SID-03168217-N">
+<Model path="Beach/BeachChair.a2c"/>
+</Synset>
+<Synset gloss="a piece of furniture that provides a place to sleep; &quot;he sat on the edge of the bed&quot;; &quot;the room had only a bed and chair&quot;" hint="bed" id="SID-02818832-N">
+<Model path="Furniture/OldBed.a2c"/>
+</Synset>
+<Synset gloss="any of numerous hairy-bodied insects including social and solitary species" hint="bee" id="SID-02206856-N">
+<Model path="Animals/Bugs/Bee.a2c"/>
+</Synset>
+<Synset gloss="insect having biting mouthparts and front wings modified to form horny covers overlying the membranous rear wings" hint="beetle" id="SID-02164464-N">
+<Model path="Animals/Bugs/Beetle.a2c"/>
+<Model path="Animals/Bugs/GeorgeBeetle.a2c"/>
+<Model path="Animals/Bugs/LennonBeetle.a2c"/>
+<Model path="Animals/Bugs/PaulBeetle.a2c"/>
+<Model path="Animals/Bugs/RingoBeetle.a2c"/>
+</Synset>
+<Synset gloss="an optical instrument designed for simultaneous use by both eyes" hint="binoculars" id="SID-02841315-N">
+<Model path="Objects/Binoculars.a2c"/>
+</Synset>
+<Synset gloss="old fashioned airplane; has two wings one above the other" hint="biplane" id="SID-02842573-N">
+<Model path="Vehicles/Biplane.a2c"/>
+</Synset>
+<Synset gloss="hard close-grained wood of any of various birch trees; used especially in furniture and interior finishes and plywood" hint="birch" id="SID-12281600-N">
+<Model path="Nature/BirchTree.a2c"/>
+</Synset>
+<Synset gloss="warm-blooded egg-laying vertebrates characterized by feathers and forelimbs modified as wings" hint="bird" id="SID-01503061-N">
+<Model path="Animals/Bird1.a2c"/>
+<Model path="Animals/Bluebird.a2c"/>
+</Synset>
+<Synset gloss="decorated cake served at a birthday party" hint="birthday_cake" id="SID-07629988-N">
+<Model path="Holidays/Birthday/Cake.a2c"/>
+</Synset>
+<Synset gloss="bedding that keeps a person warm in bed; &quot;he pulled the covers over his head and went to sleep&quot;" hint="blanket" id="SID-02849154-N">
+<Model path="Hawaii/blanket.a2c"/>
+</Synset>
+<Synset gloss="an electrically powered mixer with whirling blades that mix or chop or liquefy foods" hint="blender" id="SID-02850732-N">
+<Model path="Kitchen/Blender.a2c"/>
+</Synset>
+<Synset gloss="a small nonrigid airship used for observation or as a barrage balloon" hint="blimp" id="SID-02850950-N">
+<Model path="Vehicles/Blimp.a2c"/>
+</Synset>
+<Synset gloss="a game played on a specially designed board" hint="board_game" id="SID-00502415-N">
+<Model path="Hawaii/Konana.a2c"/>
+</Synset>
+<Synset gloss="a small vessel for travel on water" hint="boat" id="SID-02858304-N">
+<Model path="Vehicles/LifeBoat.a2c"/>
+</Synset>
+<Synset gloss="a short light oar used without an oarlock to propel a canoe or small boat" hint="boat_paddle" id="SID-03873416-N">
+<Model path="Objects/KayakPaddle.a2c"/>
+</Synset>
+<Synset gloss="a small drum; played with the hands" hint="bongo" id="SID-02869737-N">
+<Model path="Musical Instruments/Bongos.a2c"/>
+</Synset>
+<Synset gloss="a written work or composition that has been published (printed on pages bound together); &quot;I am reading a good book on economics&quot;" hint="book" id="SID-06410904-N">
+<Model path="Objects/Book.a2c"/>
+</Synset>
+<Synset gloss="a piece of furniture with shelves for storing books" hint="bookcase" id="SID-02870880-N">
+<Model path="Furniture/Bookcase.a2c"/>
+</Synset>
+<Synset gloss="a shelf on which to keep books" hint="bookshelf" id="SID-02871439-N">
+<Model path="BookShelf.a2c"/>
+</Synset>
+<Synset gloss="a vessel fitted with a flexible teat and filled with milk or formula; used as a substitute for breast feeding infants and very young children" hint="bottle" id="SID-02877266-N">
+<Model path="Kitchen/Food/MilkBottle.a2c"/>
+</Synset>
+<Synset gloss="a glass or plastic vessel used for storing drinks or other liquids; typically cylindrical without handles and with a narrow neck that can be plugged or capped" hint="bottle" id="SID-02876657-N">
+<Model path="Objects/Bottle.a2c"/>
+</Synset>
+<Synset gloss="a weapon for shooting arrows, composed of a curved piece of resilient wood with a taut cord to propel the arrow" hint="bow" id="SID-02879718-N">
+<Model path="Hawaii/Bow.a2c"/>
+<Model path="Pilgrims/Bowandarrow.a2c"/>
+</Synset>
+<Synset gloss="a large ball with finger holes used in the sport of bowling" hint="bowling_ball" id="SID-02882301-N">
+<Model path="Sports/BowlingBall.a2c"/>
+</Synset>
+<Synset gloss="a club-shaped wooden object used in bowling; set up in triangular groups of ten as the target" hint="bowling_pin" id="SID-02882647-N">
+<Model path="Sports/BowlingPins.a2c"/>
+</Synset>
+<Synset gloss="a rectangular drawing; &quot;the flowchart contained many boxes&quot;" hint="box" id="SID-13883494-N">
+<Model path="Shapes/Box.a2c"/>
+</Synset>
+<Synset gloss="a freight car with roof and sliding doors in the sides" hint="boxcar" id="SID-02885108-N">
+<Model path="Vehicles/Boxcar.a2c"/>
+<Model path="Vehicles/CoachCar.a2c"/>
+</Synset>
+<Synset gloss="a youthful male person; &quot;the baby was a boy&quot;; &quot;she made the boy brush his teeth every night&quot;; &quot;most soldiers are only boys in uniform&quot;" hint="boy" id="SID-10285313-N">
+<Model path="People/Walking People/Boy.a2c"/>
+<Model path="People/Walking People/Sparky.a2c"/>
+<Model path="People/Boy.a2c"/>
+<Model path="People/Pj.a2c"/>
+<Model path="People/Sparky.a2c"/>
+</Synset>
+<Synset gloss="a large round seedless or seeded fruit with a texture like bread; eaten boiled or baked or roasted or ground into flour; the roasted seeds resemble chestnuts" hint="breadfruit" id="SID-07754451-N">
+<Model path="Hawaii/Plants/breadfruit.a2c"/>
+</Synset>
+<Synset gloss="a structure that allows people or vehicles to cross an obstacle such as a river or canal or railway etc." hint="bridge" id="SID-02898711-N">
+<Model path="Japan/Bridge.a2c"/>
+</Synset>
+<Synset gloss="plant with dense clusters of tight green flower buds" hint="broccoli" id="SID-11876803-N">
+<Model path="Kitchen/Food/Broccoli.a2c"/>
+</Synset>
+<Synset gloss="a cleaning implement for sweeping; bundle of straws or twigs attached to a long handle" hint="broom" id="SID-02906734-N">
+<Model path="Kitchen/Broom.a2c"/>
+</Synset>
+<Synset gloss="a roughly cylindrical vessel that is open at the top" hint="bucket" id="SID-02909870-N">
+<Model path="Kitchen/Bucket.a2c"/>
+</Synset>
+<Synset gloss="large shaggy-haired brown bison of North American plains" hint="buffalo" id="SID-02410702-N">
+<Model path="Old West/Buffalo.a2c"/>
+<Model path="Old West/BuffaloCarcass.a2c"/>
+</Synset>
+<Synset gloss="general term for any insect or similar creeping or crawling invertebrate" hint="bug" id="SID-02236355-N">
+<Model path="Animals/Bugs/Ladybug.a2c"/>
+<Model path="Animals/Ladybug.a2c"/>
+</Synset>
+<Synset gloss="a structure that has a roof and walls and stands more or less permanently in one place; &quot;there was a three-story building on the corner&quot;; &quot;it was an imposing edifice&quot;" hint="building" id="SID-02913152-N">
+<Model path="Buildings/CornerBuilding.a2c"/>
+<Model path="Buildings/SmallBuilding.a2c"/>
+<Model path="Buildings/SmallBuildings2.a2c"/>
+<Model path="City/BuildingCluster1.a2c"/>
+<Model path="City/BuildingCluster2.a2c"/>
+<Model path="City/BuildingCluster3.a2c"/>
+<Model path="City/BuildingCluster4.a2c"/>
+<Model path="City/BuildingCluster5.a2c"/>
+</Synset>
+<Synset gloss="electric lamp consisting of a transparent or translucent glass housing containing a wire filament (usually tungsten) that emits light when heated by electricity" hint="bulb" id="SID-03665924-N">
+<Model path="Lights/BlueLight.a2c"/>
+<Model path="Lights/GreenLight.a2c"/>
+<Model path="Lights/LightBulb.a2c"/>
+<Model path="Lights/RedLight.a2c"/>
+</Synset>
+<Synset gloss="a small low-powered electrically powered vehicle driven on a special platform where there are many others to be dodged" hint="bumper_car" id="SID-02918964-N">
+<Model path="Amusement Park/BumperCars.a2c"/>
+</Synset>
+<Synset gloss="(usually informal) especially a young rabbit" hint="bunny" id="SID-02324587-N">
+<Model path="Animals/Bunny.a2c"/>
+</Synset>
+<Synset gloss="a low woody perennial plant usually having several major stems" hint="bush" id="SID-13112664-N">
+<Model path="Nature/Bush.a2c"/>
+</Synset>
+<Synset gloss="diurnal insect typically having a slender body with knobbed antennae and broad colorful wings" hint="butterfly" id="SID-02274259-N">
+<Model path="Animals/Bugs/Butterfly.a2c"/>
+</Synset>
+<Synset gloss="a car on a freight train for use of the train crew; usually the last car on the train" hint="caboose" id="SID-02932523-N">
+<Model path="Vehicles/Caboose.a2c"/>
+</Synset>
+<Synset gloss="any succulent plant of the family Cactaceae native chiefly to arid regions of the New World and usually having spines" hint="cactus" id="SID-11842204-N">
+<Model path="Nature/SmallCactus.a2c"/>
+</Synset>
+<Synset gloss="a restaurant where you serve yourself and pay a cashier" hint="cafeteria" id="SID-02935891-N">
+<Model path="High School/Cafeteria.a2c"/>
+</Synset>
+<Synset gloss="a tray for carrying your food in a cafeteria" hint="cafeteria_tray" id="SID-02936176-N">
+<Model path="High School/Tray.a2c"/>
+</Synset>
+<Synset gloss="an enclosure made or wire or metal bars in which birds or animals can be kept" hint="cage" id="SID-02936714-N">
+<Model path="Objects/GlassCage.a2c"/>
+</Synset>
+<Synset gloss="a small machine that is used for mathematical calculations" hint="calculator" id="SID-02938886-N">
+<Model path="Objects/Calculator.a2c"/>
+</Synset>
+<Synset gloss="cud-chewing mammal used as a draft or saddle animal in desert regions" hint="camel" id="SID-02437136-N">
+<Model path="Animals/Camel.a2c"/>
+</Synset>
+<Synset gloss="stick of wax with a wick in the middle" hint="candle" id="SID-02948072-N">
+<Model path="Objects/Candlestick.a2c"/>
+<Model path="Holidays/Christmas/Candle.a2c"/>
+</Synset>
+<Synset gloss="a hard candy in the shape of a rod (usually with stripes)" hint="candy_cane" id="SID-07601572-N">
+<Model path="Holidays/Christmas/CandyCane1.a2c"/>
+<Model path="Holidays/Christmas/CandyCane2.a2c"/>
+</Synset>
+<Synset gloss="a large artillery gun that is usually on wheels" hint="cannon" id="SID-02950256-N">
+<Model path="Objects/Cannon.a2c"/>
+</Synset>
+<Synset gloss="small and light boat; pointed at both ends; propelled with a paddle" hint="canoe" id="SID-02951358-N">
+<Model path="Vehicles/Kayak.a2c"/>
+<Model path="Hawaii/Transportation/CanoeDouble.a2c"/>
+<Model path="Hawaii/Transportation/CanoeSingle.a2c"/>
+<Model path="Old West/Canoe.a2c"/>
+</Synset>
+<Synset gloss="a flask for carrying water; used by soldiers or travelers" hint="canteen" id="SID-02952374-N">
+<Model path="Objects/Canteen.a2c"/>
+</Synset>
+<Synset gloss="a small container" hint="capsule" id="SID-02957755-N">
+<Model path="Objects/Capsule.a2c"/>
+</Synset>
+<Synset gloss="a car on a freight train for use of the train crew; usually the last car on the train" hint="car" id="SID-02958343-N">
+<Model path="Vehicles/Car.a2c"/>
+</Synset>
+<Synset gloss="a tire consisting of a rubber ring around the rim of an automobile wheel" hint="car_tire" id="SID-02971167-N">
+<Model path="Objects/Tire.a2c"/>
+</Synset>
+<Synset gloss="a large, rotating machine with seats for children to ride or amusement" hint="carousel" id="SID-02966193-N">
+<Model path="Amusement Park/Carousel.a2c"/>
+</Synset>
+<Synset gloss="box in which a corpse is buried or cremated" hint="casket" id="SID-03064758-N">
+<Model path="Spooky/Casket.a2c"/>
+</Synset>
+<Synset gloss="a large building formerly occupied by a ruler and fortified against attack" hint="castle" id="SID-02980441-N">
+<Model path="Medieval/Castle.a2c"/>
+</Synset>
+<Synset gloss="feline mammal usually having thick soft fur and no ability to roar: domestic cats; wildcats" hint="cat" id="SID-02121620-N">
+<Model path="Animals/Cat.a2c"/>
+<Model path="Animals/SittingCat.a2c"/>
+<Model path="Animals/SleepingCat.a2c"/>
+</Synset>
+<Synset gloss="an engine that provided medieval artillery used during sieges; a heavy war engine for hurling large stones and other missiles" hint="catapult" id="SID-02981911-N">
+<Model path="Objects/Catapult.a2c"/>
+</Synset>
+<Synset gloss="a wormlike and often brightly colored and hairy or spiny larva of a butterfly or moth" hint="caterpillar" id="SID-02309337-N">
+<Model path="Animals/Bugs/Caterpillar.a2c"/>
+</Synset>
+<Synset gloss="a seat for one person, with a support for the back; &quot;he put his coat over the back of the chair and sat down&quot;" hint="chair" id="SID-03001627-N">
+<Model path="Furniture/Chair.a2c"/>
+<Model path="Kitchen/WoodChair.a2c"/>
+<Model path="High School/CafeteriaChair.a2c"/>
+<Model path="Furniture/KidsChair.a2c"/>
+</Synset>
+<Synset gloss="branched lighting fixture; often ornate; hangs from the ceiling" hint="chandelier" id="SID-03005285-N">
+<Model path="Objects/Chandelier.a2c"/>
+</Synset>
+<Synset gloss="an enthusiastic and vocal supporter; &quot;he has become a cheerleader for therapeutic cloning&quot;" hint="cheerleader" id="SID-09913593-N">
+<Model path="High School/Students and Teachers/Cheerleader.a2c"/>
+</Synset>
+<Synset gloss="a domestic fowl bred for flesh or eggs; believed to have been developed from the red jungle fowl" hint="chicken" id="SID-01791625-N">
+<Model path="Animals/Chicken.a2c"/>
+</Synset>
+<Synset gloss="an aircraft without wings that obtains its lift from the rotation of overhead blades" hint="chopper" id="SID-03512147-N">
+<Model path="Vehicles/ArmyCopter.a2c"/>
+<Model path="Vehicles/Helicopter.a2c"/>
+</Synset>
+<Synset gloss="a place for public (especially Christian) worship; &quot;the church was empty&quot;" hint="church" id="SID-03028079-N">
+<Model path="City/Church.a2c"/>
+</Synset>
+<Synset gloss="a lighter for cigars or cigarettes" hint="cigar_lighter" id="SID-03031422-N">
+<Model path="Objects/Lighter.a2c"/>
+</Synset>
+<Synset gloss="ellipse in which the two axes are of equal length; a plane curve generated by one point moving at a constant distance from a fixed point; &quot;he calculated the circumference of the circle&quot;" hint="circle" id="SID-13873502-N">
+<Model path="Shapes/Circle.a2c"/>
+</Synset>
+<Synset gloss="a building that houses administrative offices of a municipal government" hint="city_hall" id="SID-03036022-N">
+<Model path="City/CityHall.a2c"/>
+</Synset>
+<Synset gloss="a timepiece that shows the time of day" hint="clock" id="SID-03046257-N">
+<Model path="Objects/Clock.a2c"/>
+</Synset>
+<Synset gloss="a visible mass of water or ice particles suspended at a considerable altitude" hint="cloud" id="SID-09247410-N">
+<Model path="Special Effects/Cloud.a2c"/>
+</Synset>
+<Synset gloss="a person who amuses others by ridiculous behavior" hint="clown" id="SID-09930876-N">
+<Model path="People/Walking People/Rockette.a2c"/>
+<Model path="People/Rockette.a2c"/>
+</Synset>
+<Synset gloss="(sports) someone in charge of training an athlete or a team" hint="coach" id="SID-09931640-N">
+<Model path="High School/Students and Teachers/Coach.a2c"/>
+<Model path="People/Walking People/Coach.a2c"/>
+<Model path="People/Coach.a2c"/>
+</Synset>
+<Synset gloss="freight car with fixed sides and no roof; for transporting coal" hint="coal_car" id="SID-03056097-N">
+<Model path="Vehicles/CoalCar.a2c"/>
+</Synset>
+<Synset gloss="" hint="coatrack" id="SID-03059103-N">
+<Model path="Furniture/Coatrack.a2c"/>
+<Model path="Furniture/Coatrack3.a2c"/>
+</Synset>
+<Synset gloss="low table where magazines can be placed and coffee or cocktails are served" hint="coffee_table" id="SID-03063968-N">
+<Model path="Furniture/CoffeeTable.a2c"/>
+</Synset>
+<Synset gloss="a person who settles in a new colony or moves into new country" hint="colonist" id="SID-10583387-N">
+<Model path="SciFi/SpaceColonist.a2c"/>
+</Synset>
+<Synset gloss="a picture book with line drawings intended to be colored with crayons by children" hint="coloring_book" id="SID-03071782-N">
+<Model path="Objects/ColoringBook.a2c"/>
+</Synset>
+<Synset gloss="lock that can be opened only by turning dials in a special sequence" hint="combination_lock" id="SID-03075370-N">
+<Model path="Objects/ComboLock.a2c"/>
+</Synset>
+<Synset gloss="navigational instrument for finding directions" hint="compass" id="SID-03080497-N">
+<Model path="Objects/Compass.a2c"/>
+</Synset>
+<Synset gloss="a hand-operated electronic device that controls the coordinates of a cursor on your computer screen as you move it around on a pad; on the bottom of the device is a ball that rolls on the surface of the pad; &quot;a mouse takes much more room than a trackball&quot;" hint="computer_mouse" id="SID-03793489-N">
+<Model path="Objects/Mouse.a2c"/>
+</Synset>
+<Synset gloss="any of various edible tropical marine gastropods of the genus Strombus having a brightly-colored spiral shell with large outer lip" hint="conch" id="SID-01943899-N">
+<Model path="Ocean/ConchShell.a2c"/>
+</Synset>
+<Synset gloss="a shape whose base is a circle and whose sides taper up to a point" hint="cone" id="SID-13872592-N">
+<Model path="Shapes/Cone.a2c"/>
+</Synset>
+<Synset gloss="a tower with an elevated workspace enclosed in glass for the visual observation of aircraft around an airport" hint="control_tower" id="SID-03098959-N">
+<Model path="Buildings/ControlTower.a2c"/>
+</Synset>
+<Synset gloss="any of various small flat sweet cakes (`biscuit' is the British term)" hint="cookie" id="SID-07635155-N">
+<Model path="Kitchen/Food/Cookie.a2c"/>
+</Synset>
+<Synset gloss="marine colonial polyp characterized by a calcareous skeleton; masses in a variety of shapes often forming reefs" hint="coral" id="SID-01915811-N">
+<Model path="Ocean/FingerCoral.a2c"/>
+<Model path="Ocean/FireCoral.a2c"/>
+</Synset>
+<Synset gloss="tall annual cereal grass bearing kernels on large ears: widely cultivated in America in many varieties; the principal cereal in Mexico and Central and South America since pre-Columbian times" hint="corn" id="SID-12143676-N">
+<Model path="Pilgrims/Corn.a2c"/>
+</Synset>
+<Synset gloss="a field planted with corn" hint="cornfield" id="SID-08544719-N">
+<Model path="Farm/Cornfield.a2c"/>
+</Synset>
+<Synset gloss="a goat's horn filled with grain and flowers and fruit symbolizing prosperity" hint="cornucopia" id="SID-06808121-N">
+<Model path="Pilgrims/Cornucopia.a2c"/>
+</Synset>
+<Synset gloss="an upholstered seat for more than one person" hint="couch" id="SID-04256520-N">
+<Model path="Furniture/Couch.a2c"/>
+</Synset>
+<Synset gloss="a piece of furniture that stands at the side of a dining room; has shelves and drawers" hint="counter" id="SID-02912065-N">
+<Model path="Kitchen/Counter.a2c"/>
+</Synset>
+<Synset gloss="mature female of mammals of which the male is called `bull'" hint="cow" id="SID-01887787-N">
+<Model path="Animals/Cow.a2c"/>
+</Synset>
+<Synset gloss="a hired hand who tends cattle and performs other duties on horseback" hint="cowboy" id="SID-09972661-N">
+<Model path="Old West/Cowboy.a2c"/>
+<Model path="People/Walking People/Cowboy.a2c"/>
+</Synset>
+<Synset gloss="a woman cowboy" hint="cowgirl" id="SID-09973422-N">
+<Model path="Old West/Westgirl.a2c"/>
+</Synset>
+<Synset gloss="lifts and moves heavy objects; lifting tackle is suspended from a pivoted boom that rotates around a vertical axis" hint="crane" id="SID-03126707-N">
+<Model path="Vehicles/Crane.a2c"/>
+</Synset>
+<Synset gloss="a rugged box (usually made of wood); used for shipping" hint="crate" id="SID-03127925-N">
+<Model path="Objects/Crate.a2c"/>
+</Synset>
+<Synset gloss="a small pitcher for serving cream" hint="creamer" id="SID-03129001-N">
+<Model path="Kitchen/Food/Creamer.a2c"/>
+</Synset>
+<Synset gloss="a horizontal bar that goes across something" hint="crossbar" id="SID-03135917-N">
+<Model path="Controls/Slider.a2c"/>
+</Synset>
+<Synset gloss="a large motorboat that has a cabin and plumbing and other conveniences necessary for living on board" hint="cruiser" id="SID-02932891-N">
+<Model path="Vehicles/BigBoat.a2c"/>
+</Synset>
+<Synset gloss="a hexahedron with six equal squares as faces" hint="cube" id="SID-13916721-N">
+<Model path="Shapes/Cube.a2c"/>
+</Synset>
+<Synset gloss="clock that announces the hours with a sound like the call of the cuckoo" hint="cuckoo_clock" id="SID-03145147-N">
+<Model path="Objects/CuckooClock.a2c"/>
+</Synset>
+<Synset gloss="a small open container usually used for drinking; usually has a handle; &quot;he put the cup back in the saucer&quot;; &quot;the handle of the cup was missing&quot;" hint="cup" id="SID-03147509-N">
+<Model path="Kitchen/Cup.a2c"/>
+</Synset>
+<Synset gloss="a solid bounded by a cylindrical surface and two parallel planes (the bases)" hint="cylinder" id="SID-13865298-N">
+<Model path="Shapes/Cylinder.a2c"/>
+<Model path="Shapes/HalfCylinder.a2c"/>
+<Model path="Shapes/OpenHalfCylinder.a2c"/>
+</Synset>
+<Synset gloss="any of numerous composite plants having flower heads with well-developed ray flowers usually arranged" hint="daisy" id="SID-11939491-N">
+<Model path="Nature/Daisy.a2c"/>
+</Synset>
+<Synset gloss="a performer who dances professionally" hint="dancer" id="SID-09989502-N">
+<Model path="Japan/FanDancer.a2c"/>
+</Synset>
+<Synset gloss="a male ballet dancer who is the partner of a ballerina" hint="danseur" id="SID-09991406-N">
+<Model path="People/Walking People/MaleBalletDancer.a2c"/>
+<Model path="People/MaleBalletDancer.a2c"/>
+</Synset>
+<Synset gloss="a piece of furniture with a writing surface and usually drawers or other compartments" hint="desk" id="SID-03179701-N">
+<Model path="Furniture/Desk.a2c"/>
+</Synset>
+<Synset gloss="the control on a radio or television set that is used for tuning" hint="dial" id="SID-03187153-N">
+<Model path="Controls/Dial.a2c"/>
+</Synset>
+<Synset gloss="a table at which meals are served; &quot;he helped her clear the dining table&quot;; &quot;a feast was spread upon the board&quot;" hint="dining_table" id="SID-03201208-N">
+<Model path="Furniture/DiningTable.a2c"/>
+</Synset>
+<Synset gloss="a pail in which a workman carries his lunch or dinner" hint="dinner_pail" id="SID-03201996-N">
+<Model path="Kitchen/LunchBox.a2c"/>
+</Synset>
+<Synset gloss="a person who announces and plays popular recorded music" hint="dj" id="SID-10017272-N">
+<Model path="People/DJ.a2c"/>
+</Synset>
+<Synset gloss="a platform built out from the shore into the water and supported by piles; provides access to ships and boats" hint="dock" id="SID-03933529-N">
+<Model path="SciFi/SpaceDock.a2c"/>
+</Synset>
+<Synset gloss="any polyhedron having twelve plane faces" hint="dodecahedron" id="SID-13915784-N">
+<Model path="Dodecahedron.a2c"/>
+</Synset>
+<Synset gloss="a concave shape whose distinguishing characteristic is that the concavity faces downward" hint="dome" id="SID-13872072-N">
+<Model path="Shapes/Dome.a2c"/>
+</Synset>
+<Synset gloss="domestic beast of burden descended from the African wild ass; patient but stubborn" hint="donkey" id="SID-02389559-N">
+<Model path="Ancient/Donkey.a2c"/>
+</Synset>
+<Synset gloss="a swinging or sliding barrier that will close the entrance to a room or building or vehicle; &quot;he knocked on the door&quot;; &quot;he slammed the door as he left&quot;" hint="door" id="SID-03221720-N">
+<Model path="Furniture/Door.a2c"/>
+</Synset>
+<Synset gloss="the entrance (the space in a wall) through which you enter or leave a room or building; the space that a door can close; &quot;he stuck his head in the doorway&quot;" hint="doorway" id="SID-03224032-N">
+<Model path="Furniture/Doorway.a2c"/>
+</Synset>
+<Synset gloss="a creature of Teutonic mythology; usually represented as breathing fire and having a reptilian body and sometimes wings" hint="dragon" id="SID-09494388-N">
+<Model path="Medieval/Dragon.a2c"/>
+<Model path="Medieval/dragon3.a2c"/>
+</Synset>
+<Synset gloss="furniture with drawers for keeping clothes" hint="dresser" id="SID-03015254-N">
+<Model path="Furniture/Dresser.a2c"/>
+</Synset>
+<Synset gloss="truck whose contents can be emptied without handling; the front end of the platform can be pneumatically raised so that the load is discharged by gravity" hint="dump_truck" id="SID-03256166-N">
+<Model path="Vehicles/DumpTruck.a2c"/>
+</Synset>
+<Synset gloss="a cone-shaped paper hat formerly placed on the head of slow or lazy pupils" hint="dunce_cap" id="SID-03256631-N">
+<Model path="Holidays/Birthday/PartyHat.a2c"/>
+</Synset>
+<Synset gloss="an explosive containing nitrate sensitized with nitroglycerin absorbed on wood pulp" hint="dynamite" id="SID-03260293-N">
+<Model path="Objects/Dynamite.a2c"/>
+</Synset>
+<Synset gloss="a plant consisting of one or more buildings with facilities for manufacturing" hint="factory" id="SID-03316406-N">
+<Model path="Buildings/Factory.a2c"/>
+</Synset>
+<Synset gloss="a small being, human in form, playful and having magical powers" hint="fairy" id="SID-09540430-N">
+<Model path="People/Walking People/DewdropWİllowwind.a2c"/>
+<Model path="People/Walking People/FidgetSaturndance.a2c"/>
+<Model path="People/Walking People/GossamerFlameglimmer.a2c"/>
+<Model path="People/Walking People/LeafFlameglimmer.a2c"/>
+<Model path="People/Walking People/HaloSilverfilter.a2c"/>
+<Model path="People/Walking People/MabHazelnut.a2c"/>
+<Model path="People/Walking People/MeadSeafeather.a2c"/>
+<Model path="People/Walking People/OliveWaterblossom.a2c"/>
+<Model path="People/Walking People/PetalBeamweb.a2c"/>
+<Model path="People/Walking People/ShadeAniseed.a2c"/>
+<Model path="People/Walking People/SprightlyReedsmoke.a2c"/>
+</Synset>
+<Synset gloss="a device for creating a current of air by movement of a surface or surfaces" hint="fan" id="SID-03320046-N">
+<Model path="Objects/Fan.a2c"/>
+</Synset>
+<Synset gloss="house for a farmer and family" hint="farmhouse" id="SID-03322836-N">
+<Model path="Buildings/FarmHouse.a2c"/>
+<Model path="Farm/FarmHouse.a2c"/>
+</Synset>
+<Synset gloss="a barrier that serves to enclose an area" hint="fence" id="SID-03327234-N">
+<Model path="Buildings/Fence.a2c"/>
+<Model path="Farm/Fence.a2c"/>
+</Synset>
+<Synset gloss="any of numerous flowerless and seedless vascular plants having true roots from a rhizome and fronds that uncurl upward; reproduce by spores" hint="fern" id="SID-11545714-N">
+<Model path="Nature/Fern.a2c"/>
+</Synset>
+<Synset gloss="a high-speed military or naval airplane designed to destroy enemy aircraft in the air" hint="fighter_aircraft" id="SID-03335030-N">
+<Model path="Vehicles/FighterPlane.a2c"/>
+<Model path="Vehicles/NavyJet.a2c"/>
+</Synset>
+<Synset gloss="the process of combustion of inflammable materials producing heat and light and (often) smoke; &quot;fire was one of our ancestors' first discoveries&quot;" hint="fire" id="SID-13480848-N">
+<Model path="Special Effects/Fire.a2c"/>
+<Model path="Special Effects/FireAnimation.a2c"/>
+</Synset>
+<Synset gloss="an upright hydrant for drawing water to use in fighting a fire" hint="fire_hydrant" id="SID-03346898-N">
+<Model path="City/FireHydrant.a2c"/>
+</Synset>
+<Synset gloss="any of various large trucks that carry firemen and equipment to the site of a fire" hint="fire_truck" id="SID-03345487-N">
+<Model path="Vehicles/Firetruck.a2c"/>
+</Synset>
+<Synset gloss="an open recess in a wall at the base of a chimney where a fire can be built; &quot;the fireplace was so large you could walk inside it&quot;; &quot;he laid a fire in the hearth and lit it&quot;; &quot;the hearth was black with the charcoal of many fires&quot;" hint="fireplace" id="SID-03346455-N">
+<Model path="Furniture/Fireplace.a2c"/>
+</Synset>
+<Synset gloss="any of various mostly cold-blooded aquatic vertebrates usually having scales and breathing through gills; &quot;the shark is a large fish&quot;; &quot;in the living room there was a tank of colorful fish&quot;" hint="fish" id="SID-02512053-N">
+<Model path="Animals/Fish.a2c"/>
+<Model path="Ocean/BigFish.a2c"/>
+<Model path="Ocean/BigFish2.a2c"/>
+<Model path="Ocean/Fish.a2c"/>
+<Model path="Ocean/Fishy.a2c"/>
+<Model path="Ocean/Lilfish.a2c"/>
+<Model path="Ocean/LilFish2.a2c"/>
+<Model path="Ocean/UglyFish.a2c"/>
+</Synset>
+<Synset gloss="a vessel for fishing; often has a well to keep the catch alive" hint="fishing_boat" id="SID-03351262-N">
+<Model path="Vehicles/FishingBoat.a2c"/>
+</Synset>
+<Synset gloss="a tall staff or pole on which a flag is raised" hint="flagpole" id="SID-03355925-N">
+<Model path="Objects/Flagpole.a2c"/>
+</Synset>
+<Synset gloss="large pink to scarlet web-footed wading bird with down-bent bill; inhabits brackish lakes" hint="flamingo" id="SID-02007558-N">
+<Model path="Animals/Flamingo.a2c"/>
+</Synset>
+<Synset gloss="a small portable battery-powered electric lamp" hint="flashlight" id="SID-03359137-N">
+<Model path="Objects/Flashlight.a2c"/>
+</Synset>
+<Synset gloss="a plant cultivated for its blooms or blossoms" hint="flower" id="SID-11669921-N">
+<Model path="Nature/Flower.a2c"/>
+<Model path="Nature/PurpleFlower.a2c"/>
+<Model path="Nature/RedFlower.a2c"/>
+</Synset>
+<Synset gloss="a container in which plants are cultivated" hint="flowerpot" id="SID-03991062-N">
+<Model path="Nature/Flowerpot.a2c"/>
+</Synset>
+<Synset gloss="a toilet that is cleaned of waste by the flow of water through it" hint="flush_toilet" id="SID-03371875-N">
+<Model path="Objects/Toilet.a2c"/>
+</Synset>
+<Synset gloss="any of various games played with a ball (round or oval) in which two teams try to kick or carry or propel the ball into each other's goal" hint="football" id="SID-00468480-N">
+<Model path="Sports/Football.a2c"/>
+</Synset>
+<Synset gloss="an artificially produced flow of water" hint="fountain" id="SID-03387926-N">
+<Model path="Park/ParkFountain.a2c"/>
+</Synset>
+<Synset gloss="a plumbing fixture that provides a flow of water" hint="fountain" id="SID-03387815-N">
+<Model path="Amusement Park/Fountain.a2c"/>
+</Synset>
+<Synset gloss="a refrigerator in which the coolant is pumped around by an electric motor" hint="fridge" id="SID-03273913-N">
+<Model path="Kitchen/Fridge.a2c"/>
+</Synset>
+<Synset gloss="any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species" hint="frog" id="SID-01639765-N">
+<Model path="Animals/Frog.a2c"/>
+</Synset>
+<Synset gloss="a plot of ground where plants are cultivated" hint="garden" id="SID-03417345-N">
+<Model path="Nature/Garden.a2c"/>
+</Synset>
+<Synset gloss="a movable barrier in a fence or wall" hint="gate" id="SID-03427296-N">
+<Model path="Spooky/Gate.a2c"/>
+</Synset>
+<Synset gloss="a small roofed building affording shade and rest" hint="gazebo" id="SID-03430418-N">
+<Model path="Buildings/Gazebo.a2c"/>
+<Model path="Park/Gazebo.a2c"/>
+</Synset>
+<Synset gloss="any of various small chiefly tropical and usually nocturnal insectivorous terrestrial lizards typically with immovable eyelids; completely harmless" hint="gecko" id="SID-01674990-N">
+<Model path="Hawaii/animals/Gecko.a2c"/>
+</Synset>
+<Synset gloss="the visible disembodied soul of a dead person" hint="ghost" id="SID-09545976-N">
+<Model path="Spooky/Ghost.a2c"/>
+</Synset>
+<Synset gloss="a young woman; &quot;a young lady of 18&quot;" hint="girl" id="SID-10129825-N">
+<Model path="High School/Students and Teachers/Girl.a2c"/>
+<Model path="People/AliceLiddell.a2c"/>
+<Model path="Old West/NativeGirl.a2c"/>
+<Model path="People/Urban/Natalie.a2c"/>
+<Model path="People/Urban/Natasha.a2c"/>
+<Model path="People/Urban/Shannon.a2c"/>
+<Model path="People/Walking People/AliceLiddell.a2c"/>
+<Model path="People/Walking People/EvilStepsister1.a2c"/>
+<Model path="People/Walking People/EvilStepSister2.a2c"/>
+<Model path="People/Walking People/Girl.a2c"/>
+<Model path="People/Walking People/RandomGirl2.a2c"/>
+<Model path="People/Walking People/RandomGirl3.a2c"/>
+<Model path="People/EvilStepsister1.a2c"/>
+<Model path="People/EvilStepSister2.a2c"/>
+<Model path="People/Girl.a2c"/>
+<Model path="People/Kelly.a2c"/>
+<Model path="People/Mana.a2c"/>
+<Model path="People/RandomGirl1.a2c"/>
+<Model path="People/RandomGirl2.a2c"/>
+<Model path="People/RandomGirl3.a2c"/>
+</Synset>
+<Synset gloss="a sphere on which a map (especially of the earth) is represented" hint="globe" id="SID-03440512-N">
+<Model path="Objects/Globe.a2c"/>
+</Synset>
+<Synset gloss="handwear: covers the hand and wrist" hint="glove" id="SID-03441112-N">
+<Model path="Objects/LeftGlove.a2c"/>
+<Model path="Objects/RightGlove.a2c"/>
+</Synset>
+<Synset gloss="game equipment consisting of the place toward which players of a game try to advance a ball or puck in order to score points" hint="goal" id="SID-03442756-N">
+<Model path="Sports/HockeyGoal.a2c"/>
+</Synset>
+<Synset gloss="one of a pair of posts (usually joined by a crossbar) that are set up as a goal at each end of a playing field" hint="goalpost" id="SID-03443149-N">
+<Model path="Sports/GoalPosts.a2c"/>
+</Synset>
+<Synset gloss="small golden or orange-red freshwater fishes of Eurasia used as pond or aquarium fishes" hint="goldfish" id="SID-01443537-N">
+<Model path="Animals/Goldfish.a2c"/>
+<Model path="Ocean/Goldfish.a2c"/>
+</Synset>
+<Synset gloss="largest anthropoid ape; terrestrial and vegetarian; of forests of central west Africa" hint="gorilla" id="SID-02480855-N">
+<Model path="Animals/GorillaRobot.a2c"/>
+</Synset>
+<Synset gloss="a pendulum clock enclosed in a tall narrow case" hint="grandfather_clock" id="SID-03452594-N">
+<Model path="Objects/GrandfatherClock.a2c"/>
+</Synset>
+<Synset gloss="any of various juicy fruit of the genus Vitis with green or purple skins; grow in clusters" hint="grape" id="SID-07758680-N">
+<Model path="Kitchen/Food/BowlOfGrapes.a2c"/>
+</Synset>
+<Synset gloss="a framework of metal bars used as a partition or a grate; &quot;he cooked hamburgers on the grill&quot;" hint="grill" id="SID-03459591-N">
+<Model path="Park/Grill.a2c"/>
+</Synset>
+<Synset gloss="a stringed instrument usually having six strings; played by strumming or plucking" hint="guitar" id="SID-03467517-N">
+<Model path="Musical Instruments/Guitar.a2c"/>
+</Synset>
+<Synset gloss="a jellied candy coated with sugar crystals" hint="gumdrop" id="SID-07605944-N">
+<Model path="Kitchen/Food/Gumdrop.a2c"/>
+</Synset>
+<Synset gloss="athletic facility equipped for sports or physical training" hint="gym" id="SID-03472112-N">
+<Model path="High School/Gym.a2c"/>
+<Model path="Japan/Dojo.a2c"/>
+</Synset>
+<Synset gloss="a hand tool with a heavy rigid head and a handle; used to deliver an impulsive force by striking" hint="hammer" id="SID-03481172-N">
+<Model path="Objects/Hammer.a2c"/>
+</Synset>
+<Synset gloss="the (prehensile) extremity of the superior limb; &quot;he had the hands of a surgeon&quot;; &quot;he extended his mitt&quot;" hint="hand" id="SID-05564590-N">
+<Model path="People/Lefthand.a2c"/>
+<Model path="People/RightHand.a2c"/>
+</Synset>
+<Synset gloss="a handcart that has a frame with two low wheels and a ledge at the bottom and handles at the top; used to move crates or other heavy objects" hint="hand_truck" id="SID-03490119-N">
+<Model path="Objects/Handtruck.a2c"/>
+</Synset>
+<Synset gloss="swift timid long-eared mammal larger than a rabbit having a divided upper lip and long hind legs; young born furred and with open eyes" hint="hare" id="SID-02326432-N">
+<Model path="Animals/Hare.a2c"/>
+</Synset>
+<Synset gloss="diurnal bird of prey typically having short rounded wings and a long tail" hint="hawk" id="SID-01605630-N">
+<Model path="Animals/Hawk.a2c"/>
+</Synset>
+<Synset gloss="clothing for the head" hint="headdress" id="SID-03502509-N">
+<Model path="Hawaii/People/ChiefessHeaddress.a2c"/>
+</Synset>
+<Synset gloss="a protective helmet for the head" hint="headpiece" id="SID-03504205-N">
+<Model path="Objects/DivingHelmet.a2c"/>
+</Synset>
+<Synset gloss="a kerchief worn over the head and tied under the chin" hint="headscarf" id="SID-03505504-N">
+<Model path="Ancient/HeadScarf.a2c"/>
+</Synset>
+<Synset gloss="a protective headgear made of hard material to resist blows" hint="helmet" id="SID-03513137-N">
+<Model path="Objects/VrHelmet.a2c"/>
+</Synset>
+<Synset gloss="a man's hat with a tall crown; usually covered with silk or with beaver fur" hint="high_hat" id="SID-03237416-N">
+<Model path="Object/MagicianHat.a2c"/>
+</Synset>
+<Synset gloss="a major road for any form of motor transport" hint="highway" id="SID-03519981-N">
+<Model path="City/Highway.a2c"/>
+</Synset>
+<Synset gloss="a vulcanized rubber disk 3 inches in diameter that is used instead of a ball in ice hockey" hint="hockey_puck" id="SID-04019541-N">
+<Model path="Sports/HockeyPuck.a2c"/>
+</Synset>
+<Synset gloss="sports implement consisting of a stick used by hockey players to move the puck" hint="hockey_stick" id="SID-03524150-N">
+<Model path="Sports/HockeyStick.a2c"/>
+</Synset>
+<Synset gloss="a holding device; &quot;a towel holder&quot;; &quot;a cigarette holder&quot;; &quot;an umbrella holder&quot;" hint="holder" id="SID-03525454-N">
+<Model path="Kitchen/KnifeHolder.a2c"/>
+</Synset>
+<Synset gloss="a brass musical instrument with a brilliant tone; has a narrow tube and a flared bell and is played by means of valves" hint="horn" id="SID-03110669-N">
+<Model path="Musical Instruments/Horn.a2c"/>
+<Model path="Musical Instruments/Trumpet.a2c"/>
+</Synset>
+<Synset gloss="solid-hoofed herbivorous quadruped domesticated since prehistoric times" hint="horse" id="SID-02374451-N">
+<Model path="Animals/Horse.a2c"/>
+<Model path="Medieval/Horse.a2c"/>
+</Synset>
+<Synset gloss="a building where travelers can pay for lodging and meals and other services" hint="hotel" id="SID-03542333-N">
+<Model path="Buildings/Hotel.a2c"/>
+</Synset>
+<Synset gloss="a dwelling that serves as living quarters for one or more families; &quot;he has a house on Cape Cod&quot;; &quot;she felt she had to get out of the house&quot;" hint="house" id="SID-03544360-N">
+<Model path="Hawaii/HaleHouse.a2c"/>
+</Synset>
+<Synset gloss="brownish-grey Old World mouse now a common household pest worldwide" hint="house_mouse" id="SID-02332156-N">
+<Model path="Animals/Hampster.a2c"/>
+</Synset>
+<Synset gloss="breed of heavy-coated Arctic sled dog" hint="husky" id="SID-02109961-N">
+<Model path="Animals/Husky.a2c"/>
+</Synset>
+<Synset gloss="someone who engages in ice skating" hint="ice-skater" id="SID-10196490-N">
+<Model path="People/Walking People/IceSkater.a2c"/>
+<Model path="People/IceSkater.a2c"/>
+</Synset>
+<Synset gloss="any polyhedron having twenty plane faces" hint="icosahedron" id="SID-13915883-N">
+<Model path="Shapes/Icosahedron.a2c"/>
+</Synset>
+<Synset gloss="an Eskimo hut; usually built of blocks (of sod or snow) in the shape of a dome" hint="igloo" id="SID-03560430-N">
+<Model path="Buildings/Igloo.a2c"/>
+</Synset>
+<Synset gloss="a vessel (usually cylindrical) with a wide mouth and without handles" hint="jar" id="SID-03593526-N">
+<Model path="Objects/Jar.a2c"/>
+</Synset>
+<Synset gloss="a large jet plane that carries passengers" hint="jetliner" id="SID-03596543-N">
+<Model path="Vehicles/Jet.a2c"/>
+</Synset>
+<Synset gloss="a person trained to compete in sports" hint="jock" id="SID-09820263-N">
+<Model path="High School/Students and Teachers/Jock.a2c"/>
+<Model path="People/Walking People/Jock.a2c"/>
+</Synset>
+<Synset gloss="any of several herbivorous leaping marsupials of Australia and New Guinea having large powerful hind legs and a long thick tail" hint="kangaroo" id="SID-01877134-N">
+<Model path="Animals/Joey.a2c"/>
+<Model path="Animals/Kangaroo.a2c"/>
+</Synset>
+<Synset gloss="small cask or barrel" hint="keg" id="SID-03610418-N">
+<Model path="Objects/Keg.a2c"/>
+</Synset>
+<Synset gloss="metal device shaped in such a way that when it is inserted into the appropriate lock the lock's mechanism can be rotated" hint="key" id="SID-03613294-N">
+<Model path="Objects/Key.a2c"/>
+</Synset>
+<Synset gloss="device consisting of a set of keys on a piano or organ or typewriter or typesetting machine or computer or the like" hint="keyboard" id="SID-03614007-N">
+<Model path="Musical Instruments/Keyboard.a2c"/>
+</Synset>
+<Synset gloss="a keyboard that is a data input device for computers; arrangement of keys is modelled after the typewriter keyboard" hint="keypad" id="SID-03085013-N">
+<Model path="Objects/Keypad.a2c"/>
+</Synset>
+<Synset gloss="a young person of either sex; &quot;she writes books for children&quot;; &quot;they're just kids&quot;; &quot;`tiddler' is a British term for youngster&quot;" hint="kid" id="SID-09917593-N">
+<Model path="People/BikeKid1.a2c"/>
+<Model path="People/BikeKid2.a2c"/>
+</Synset>
+<Synset gloss="a room equipped for preparing meals" hint="kitchen" id="SID-03619890-N">
+<Model path="Kitchen/Kitchen.a2c"/>
+</Synset>
+<Synset gloss="edge tool used as a cutting instrument; has a pointed blade with a sharp edge and a handle" hint="knife" id="SID-03623556-N">
+<Model path="Kitchen/Knife.a2c"/>
+</Synset>
+<Synset gloss="originally a person of noble birth trained to arms and chivalry; today in Great Britain a person honored by the sovereign for personal merit" hint="knight" id="SID-10238375-N">
+<Model path="Medieval/CrispyKnight.a2c"/>
+<Model path="Medieval/Knight.a2c"/>
+</Synset>
+<Synset gloss="teps consisting of two parallel members connected by rungs; for climbing up or down" hint="ladder" id="SID-03632277-N">
+<Model path="Objects/Ladder.a2c"/>
+</Synset>
+<Synset gloss="a polite name for any woman; &quot;a nice lady at the library helped me&quot;" hint="lady" id="SID-10243137-N">
+<Model path="High School/Students and Teachers/LunchLady.a2c"/>
+<Model path="People/Walking People/LunchLady.a2c"/>
+</Synset>
+<Synset gloss="light from a lamp" hint="lamplight" id="SID-11472960-N">
+<Model path="Lights/DirectionalLight.a2c"/>
+</Synset>
+<Synset gloss="a metal post supporting an outdoor lamp (such as a streetlight)" hint="lamppost" id="SID-03637181-N">
+<Model path="City/LampPost.a2c"/>
+</Synset>
+<Synset gloss="a long pointed rod used as a tool or weapon" hint="lance" id="SID-04270891-N">
+<Model path="Medieval/Lance.a2c"/>
+</Synset>
+<Synset gloss="light in a transparent protective case" hint="lantern" id="SID-03640988-N">
+<Model path="Objects/Lantern.a2c"/>
+</Synset>
+<Synset gloss="garden tool for mowing grass on lawns" hint="lawn_mower" id="SID-03649909-N">
+<Model path="Objects/Lawnmower.a2c"/>
+</Synset>
+<Synset gloss="the main organ of photosynthesis and transpiration in higher plants" hint="leaf" id="SID-13152742-N">
+<Model path="Hawaii/Plants/TiLeaf.a2c"/>
+</Synset>
+<Synset gloss="flower arrangement consisting of a circular band of foliage or flowers for ornamental purposes" hint="lei" id="SID-04606014-N">
+<Model path="Hawaii/Plants/Lei.a2c"/>
+</Synset>
+<Synset gloss="large-eyed arboreal prosimian having foxy faces and long furry tails" hint="lemur" id="SID-02496913-N">
+<Model path="Animals/Lemur.a2c"/>
+</Synset>
+<Synset gloss="a rigid bar pivoted about a fulcrum" hint="lever" id="SID-03659292-N">
+<Model path="Controls/Lever.a2c"/>
+</Synset>
+<Synset gloss="a tower with a light that gives warning of shoals to passing ships" hint="lighthouse" id="SID-02814860-N">
+<Model path="Beach/Lighthouse.a2c"/>
+</Synset>
+<Synset gloss="the flash of light that accompanies an electric discharge in the atmosphere (or something resembling such a flash); can scintillate for a second or more" hint="lightning" id="SID-07412993-N">
+<Model path="Special Effects/Lightning.a2c"/>
+</Synset>
+<Synset gloss="arge gregarious predatory feline of Africa and India having a tawny coat with a shaggy mane in the male" hint="lion" id="SID-02129165-N">
+<Model path="Animals/Lion.a2c"/>
+</Synset>
+<Synset gloss="a younger brother; &quot;my little brother just had his 50th birthday&quot;" hint="little_brother" id="SID-10267311-N">
+<Model path="People/LittleBrother.a2c"/>
+</Synset>
+<Synset gloss="relatively long-bodied reptile with usually two pairs of legs and a tapering tail" hint="lizard" id="SID-01674464-N">
+<Model path="Hawaii/animals/Lizard.a2c"/>
+</Synset>
+<Synset gloss="a trunk for storing personal possessions; usually kept at the foot of a bed (as in a barracks) " hint="locker" id="SID-03380301-N">
+<Model path="High School/Lockers.a2c"/>
+</Synset>
+<Synset gloss="a wheeled vehicle consisting of a self-propelled engine that is used to draw trains along railway tracks" hint="locomotive" id="SID-03684823-N">
+<Model path="Vehicles/Locomotive.a2c"/>
+</Synset>
+<Synset gloss="migratory grasshoppers of warm regions having short antennae" hint="locust" id="SID-02226970-N">
+<Model path="Ancient/Locust.a2c"/>
+</Synset>
+<Synset gloss="a cabin built with logs" hint="log_cabin" id="SID-03686924-N">
+<Model path="Pilgrims/LogCabin.a2c"/>
+</Synset>
+<Synset gloss="hard candy on a stick" hint="lollipop" id="SID-07607605-N">
+<Model path="Kitchen/Food/Lollipop.a2c"/>
+</Synset>
+<Synset gloss="a large low horse-drawn wagon without sides" hint="lorry" id="SID-03690600-N">
+<Model path="Vehicles/Flatcar.a2c"/>
+</Synset>
+<Synset gloss="a spacecraft that carries astronauts from the command module to the surface of the moon and back" hint="lunar_module" id="SID-03697366-N">
+<Model path="Space/LunarLander.a2c"/>
+<Model path="SciFi/LunarLander.a2c"/>
+</Synset>
+<Synset gloss="title used for a married Frenchwoman" hint="madame" id="SID-10279778-N">
+<Model path="Hawaii/People/MadamePele-2.a2c"/>
+<Model path="Hawaii/People/MadamePele-grey.a2c"/>
+</Synset>
+<Synset gloss="someone who performs magic tricks to amuse an audience" hint="magician" id="SID-10280674-N">
+<Model path="People/Magician.a2c"/>
+</Synset>
+<Synset gloss="(physics) a device that attracts iron and produces a magnetic field" hint="magnet" id="SID-03705379-N">
+<Model path="Objects/Magnet.a2c"/>
+</Synset>
+<Synset gloss="light microscope consisting of a single convex lens that is used to produce an enlarged image; &quot;the magnifying glass was invented by Roger Bacon in 1250&quot;" hint="magnifying_glass" id="SID-03484931-N">
+<Model path="Objects/MagnifyingGlass.a2c"/>
+</Synset>
+<Synset gloss="a private box for delivery of mail" hint="mailbox" id="SID-03710193-N">
+<Model path="Objects/Mailbox.a2c"/>
+</Synset>
+<Synset gloss="an adult person who is male (as opposed to a woman); &quot;there were two women and six men on the bus&quot;" hint="man" id="SID-10287213-N">
+<Model path="Ancient/Man.a2c"/>
+<Model path="Ancient/Man2.a2c"/>
+<Model path="Ancient/Man3.a2c"/>
+<Model path="People/RandomGuy2.a2c"/>
+<Model path="Old West/Man.a2c"/>
+<Model path="People/Urban/Josh.a2c"/>
+<Model path="People/Urban/Nate.a2c"/>
+<Model path="People/Urban/Samuel.a2c"/>
+<Model path="People/Walking People/RandomGuy2.a2c"/>
+<Model path="People/Bob.a2c"/>
+<Model path="People/RandomGuy1.a2c"/>
+<Model path="Hawaii/People/Male.a2c"/>
+</Synset>
+<Synset gloss="predacious long-bodied large-eyed insect of warm regions; rests with forelimbs raised as in prayer" hint="mantis" id="SID-02236044-N">
+<Model path="Animals/Bugs/Mantis.a2c"/>
+</Synset>
+<Synset gloss="a percussion instrument consisting of a hollow gourd containing pebbles or beans; often played in pairs" hint="maraca" id="SID-03720891-N">
+<Model path="Musical Instruments/Maraca.a2c"/>
+</Synset>
+<Synset gloss="a writing implement for making a mark" hint="marker" id="SID-03722007-N">
+<Model path="Objects/BlackMarker.a2c"/>
+</Synset>
+<Synset gloss="lighter consisting of a thin piece of wood or cardboard tipped with combustible chemical; ignites with friction; &quot;he always carries matches to light his pipe&quot;; &quot;as long you've a lucifer to light your fag&quot;" hint="match" id="SID-03728437-N">
+<Model path="Objects/Match.a2c"/>
+<Model path="Objects/MatchUsed.a2c"/>
+</Synset>
+<Synset gloss="(medicine) something that treats or prevents or alleviates the symptoms of disease" hint="medicine" id="SID-03740161-N">
+<Model path="Objects/Medicine.a2c"/>
+</Synset>
+<Synset gloss="kitchen appliance that cooks food by passing an electromagnetic wave through it; heat results" hint="microwave" id="SID-03761084-N">
+<Model path="Kitchen/Microwave.a2c"/>
+</Synset>
+<Synset gloss="very small European freshwater fish common in gravelly streams" hint="minnow" id="SID-01442972-N">
+<Model path="Ocean/BlueMinnow.a2c"/>
+<Model path="Ocean/PinkMinnow.a2c"/>
+<Model path="Ocean/YellowMinnow.a2c"/>
+</Synset>
+<Synset gloss="a candy that is flavored with a mint oil" hint="mint" id="SID-07606278-N">
+<Model path="Kitchen/Food/Mint.a2c"/>
+</Synset>
+<Synset gloss="Old World parasitic shrub having branching greenish stems with leathery leaves and waxy white glutinous berries; the traditional mistletoe of Christmas" hint="mistletoe" id="SID-12739332-N">
+<Model path="Holidays/Christmas/Mistletoe.a2c"/>
+</Synset>
+<Synset gloss="spicy sauce often containing chocolate" hint="mole" id="SID-07838551-N">
+<Model path="Amusement Park/Mole.a2c"/>
+</Synset>
+<Synset gloss="a drawstring bag for holding money" hint="moneybag" id="SID-03781594-N">
+<Model path="Objects/MoneyBag.a2c"/>
+</Synset>
+<Synset gloss="display produced by a device that takes signals and displays them on a television screen or a computer monitor" hint="monitor" id="SID-03782190-N">
+<Model path="Objects/Monitor.a2c"/>
+</Synset>
+<Synset gloss="any of various long-tailed primates (excluding the prosimians)" hint="monkey" id="SID-02484322-N">
+<Model path="Animals/Monkey.a2c"/>
+</Synset>
+<Synset gloss="typically crepuscular or nocturnal insect having a stout body and feathery or hairlike antennae" hint="moth" id="SID-02283201-N">
+<Model path="Animals/Bugs/Moth.a2c"/>
+</Synset>
+<Synset gloss="a boat propelled by an internal-combustion engine" hint="motorboat" id="SID-03790230-N">
+<Model path="Vehicles/Motorboat.a2c"/>
+</Synset>
+<Synset gloss="any of numerous small rodents typically resembling diminutive rats having pointed snouts and small ears on elongated bodies with slender usually hairless tails" hint="mouse" id="SID-02330245-N">
+<Model path="Animals/Mouse.a2c"/>
+</Synset>
+<Synset gloss="a camera that takes a sequence of photographs that can give the illusion of motion when viewed in rapid succession" hint="movie_camera" id="SID-03789171-N">
+<Model path="Objects/MovieCamera.a2c"/>
+</Synset>
+<Synset gloss="with handle and usually cylindrical" hint="mug" id="SID-03797390-N">
+<Model path="Kitchen/Mug.a2c"/>
+</Synset>
+<Synset gloss="a body embalmed and dried and wrapped for burial (as in ancient Egypt)" hint="mummy" id="SID-05218630-N">
+<Model path="Egypt/Mummy.a2c"/>
+</Synset>
+<Synset gloss="a depository for collecting and displaying objects having scientific or historical or artistic value" hint="museum" id="SID-03800563-N">
+<Model path="City/Museum.a2c"/>
+</Synset>
+<Synset gloss="an insignificant student who is ridiculed as being affected or boringly studious" hint="nerd" id="SID-10684630-N">
+<Model path="High School/Students and Teachers/nerd.a2c"/>
+</Synset>
+<Synset gloss="a structure in which animals lay eggs or give birth to their young" hint="nest" id="SID-09369169-N">
+<Model path="Nature/Nest.a2c"/>
+</Synset>
+<Synset gloss="game equipment consisting of a strip of netting dividing the playing area in tennis or badminton" hint="net" id="SID-03820154-N">
+<Model path="Sports/TennisNet.a2c"/>
+</Synset>
+<Synset gloss="a class of 14th century Japanese who were trained in martial arts and were hired for espionage and assassinations" hint="ninja" id="SID-08389094-N">
+<Model path="People/Walking People/EvilNinja.a2c"/>
+<Model path="People/EvilNinja.a2c"/>
+</Synset>
+<Synset gloss="the bottom of a sea or ocean" hint="ocean_floor" id="SID-09376526-N">
+<Model path="Ocean/OceanFloor.a2c"/>
+</Synset>
+<Synset gloss="any polyhedron having eight plane faces" hint="octahedron" id="SID-13915594-N">
+<Model path="Shapes/Octahedron.a2c"/>
+</Synset>
+<Synset gloss="a man who is very old" hint="old_man" id="SID-10375506-N">
+<Model path="Ancient/OldMan.a2c"/>
+<Model path="Ancient/OldMan2.a2c"/>
+<Model path="Ancient/OldMan3.a2c"/>
+</Synset>
+<Synset gloss="any of numerous plants of the orchid family usually having flowers of unusual shapes and beautiful colors" hint="orchid" id="SID-12041446-N">
+<Model path="Hawaii/Plants/Orchid.a2c"/>
+</Synset>
+<Synset gloss="something used to beautify" hint="ornamentation" id="SID-03169390-N">
+<Model path="Holidays/Christmas/MerrySign.a2c"/>
+</Synset>
+<Synset gloss="kitchen appliance used for baking or roasting" hint="oven" id="SID-03862676-N">
+<Model path="Kitchen/Oven.a2c"/>
+</Synset>
+<Synset gloss="a cart that is drawn by an ox" hint="oxcart" id="SID-03868242-N">
+<Model path="Old West/WagonWithOx.a2c"/>
+</Synset>
+<Synset gloss="a wrapped container" hint="package" id="SID-03871083-N">
+<Model path="Objects/Package.a2c"/>
+</Synset>
+<Synset gloss="a detachable lock; has a hinged shackle that can be passed through the staple of a hasp or the links in a chain and then snapped shut" hint="padlock" id="SID-03874599-N">
+<Model path="Objects/Padlock.a2c"/>
+</Synset>
+<Synset gloss="a brush used as an applicator (to apply paint)" hint="paintbrush" id="SID-03876231-N">
+<Model path="Objects/Paintbrush.a2c"/>
+</Synset>
+<Synset gloss="any plant of the family Palmae having an unbranched trunk crowned by large pinnate or palmate leaves" hint="palm_tree" id="SID-12582231-N">
+<Model path="Nature/PalmTree.a2c"/>
+</Synset>
+<Synset gloss="a plane curve formed by the intersection of a right circular cone and a plane parallel to an element of the curve" hint="parabola" id="SID-13886371-N">
+<Model path="Shapes/Parabola.a2c"/>
+</Synset>
+<Synset gloss="rescue equipment consisting of a device that fills with air and retards your fall" hint="parachute" id="SID-03888257-N">
+<Model path="Objects/Parachute.a2c"/>
+</Synset>
+<Synset gloss="a bench in a public park" hint="park_bench" id="SID-03891251-N">
+<Model path="Park/ParkBench.a2c"/>
+</Synset>
+<Synset gloss="a coin-operated timer located next to a parking space; depositing money into it entitles you to park your car there for a specified length of time" hint="parking_meter" id="SID-03891332-N">
+<Model path="City/ParkingMeter.a2c"/>
+</Synset>
+<Synset gloss="souvenir consisting of a small gift given to a guest at a party" hint="party_favor" id="SID-03894762-N">
+<Model path="Holidays/Birthday/PartyFavor.a2c"/>
+</Synset>
+<Synset gloss="a clock regulated by a pendulum" hint="pendulum_clock" id="SID-03909406-N">
+<Model path="Objects/MantleClock.a2c"/>
+</Synset>
+<Synset gloss="short-legged flightless birds of cold southern especially Antarctic regions having webbed feet and wings modified as flippers" hint="penguin" id="SID-02055803-N">
+<Model path="Animals/Penguin.a2c"/>
+</Synset>
+<Synset gloss="machine in which rotating records cause a stylus to vibrate and the vibrations are amplified acoustically or electronically" hint="phonograph" id="SID-04064401-N">
+<Model path="Objects/Phonograph.a2c"/>
+</Synset>
+<Synset gloss="a framework in which a picture is mounted" hint="picture_frame" id="SID-03931765-N">
+<Model path="Furniture/PictureFrame.a2c"/>
+<Model path="Objects/PictureFrame.a2c"/>
+</Synset>
+<Synset gloss="a platform built out from the shore into the water and supported by piles; provides access to ships and boats" hint="pier" id="SID-03933529-N">
+<Model path="Beach/Pier.a2c"/>
+</Synset>
+<Synset gloss="someone who journeys to a sacred place as an act of religious devotion" hint="pilgrim" id="SID-10432532-N">
+<Model path="Pilgrims/PilgrimBoy.a2c"/>
+<Model path="Pilgrims/PilgrimBoy2.a2c"/>
+<Model path="Pilgrims/PilgrimGirl.a2c"/>
+<Model path="Pilgrims/PilgrimGirl2.a2c"/>
+<Model path="Pilgrims/PilgrimGirl3.a2c"/>
+<Model path="Pilgrims/PilgrimMan.a2c"/>
+<Model path="Pilgrims/PilgrimMan2.a2c"/>
+<Model path="Pilgrims/PilgrimMan3.a2c"/>
+<Model path="Pilgrims/PilgrimWoman.a2c"/>
+<Model path="Pilgrims/PilgrimWoman2.a2c"/>
+<Model path="Pilgrims/PilgrimWoman3.a2c"/>
+</Synset>
+<Synset gloss="cylindrical tumblers consisting of two parts that are held in place by springs; when they are aligned with a key the bolt can be thrown" hint="pin" id="SID-03941013-N">
+<Model path="Objects/Pin.a2c"/>
+</Synset>
+<Synset gloss="plaything consisting of a container filled with toys and candy; suspended from a height for blindfolded children to break with sticks" hint="pinata" id="SID-03941231-N">
+<Model path="Objects/Pinata.a2c"/>
+</Synset>
+<Synset gloss="a hand tool for holding consisting of a compound lever for grasping" hint="pincer" id="SID-03941684-N">
+<Model path="Objects/Gripper.a2c"/>
+</Synset>
+<Synset gloss="a coniferous tree" hint="pine_tree" id="SID-11608250-N">
+<Model path="Nature/PineTree.a2c"/>
+</Synset>
+<Synset gloss="a long-handled hand tool with sharp widely spaced prongs for lifting and pitching hay" hint="pitchfork" id="SID-03950359-N">
+<Model path="Farm/Pitchfork.a2c"/>
+</Synset>
+<Synset gloss="a decorative pot for house plants" hint="planter" id="SID-03957315-N">
+<Model path="Skate Park/Planter.a2c"/>
+</Synset>
+<Synset gloss="dish on which food is served or from which food is eaten" hint="plate" id="SID-03959485-N">
+<Model path="Kitchen/Plate.a2c"/>
+</Synset>
+<Synset gloss="yard consisting of an outdoor area for children's play" hint="playground" id="SID-03963645-N">
+<Model path="Amusement Park/ParkGround.a2c"/>
+</Synset>
+<Synset gloss="a watch that is carried in a small watch pocket" hint="pocket_watch" id="SID-03973839-N">
+<Model path="Objects/Pocketwatch.a2c"/>
+</Synset>
+<Synset gloss="a car in which policemen cruise the streets; equipped with radiotelephonic communications to headquarters" hint="police_car" id="SID-03141065-N">
+<Model path="Vehicles/PoliceCar.a2c"/>
+</Synset>
+<Synset gloss="a small lake; &quot;the pond was too small for sailing&quot;" hint="pond" id="SID-09397391-N">
+<Model path="Nature/Pond.a2c"/>
+</Synset>
+<Synset gloss="sports implement consisting of a tapering rod used to strike a cue ball in pool or billiards" hint="pool_cue" id="SID-03145522-N">
+<Model path="Sports/PoolCue.a2c"/>
+</Synset>
+<Synset gloss="game equipment consisting of a heavy table on which pool is played" hint="pool_table" id="SID-03982430-N">
+<Model path="Sports/PoolTable.a2c"/>
+</Synset>
+<Synset gloss="an edible tuber native to South America; a staple food of Ireland" hint="potato" id="SID-07710616-N">
+<Model path="Hawaii/Plants/Potato.a2c"/>
+</Synset>
+<Synset gloss="a male member of a royal family other than the sovereign (especially the son of a sovereign)" hint="prince" id="SID-10472799-N">
+<Model path="People/Walking People/HandsomePrince.a2c"/>
+<Model path="People/HandsomePrince.a2c"/>
+</Synset>
+<Synset gloss="a female member of a royal family other than the queen (especially the daughter of a sovereign)" hint="princess" id="SID-10474064-N">
+<Model path="Medieval/Princess.a2c"/>
+</Synset>
+<Synset gloss="(computer science) an output device that prints the results of data processing" hint="printer" id="SID-04004767-N">
+<Model path="Objects/Printer.a2c"/>
+</Synset>
+<Synset gloss="extinct flying reptile" hint="pterodactyl" id="SID-01723579-N">
+<Model path="Animals/Dinosaurs/Pterodactyl.a2c"/>
+<Model path="Animals/Pterodactyl.a2c"/>
+</Synset>
+<Synset gloss="usually large pulpy deep-yellow round fruit of the squash family maturing in late summer or early autumn" hint="pumpkin" id="SID-07735510-N">
+<Model path="Pilgrims/Pumpkin.a2c"/>
+</Synset>
+<Synset gloss="an electrical switch operated by pressing; &quot;the elevator was operated by push buttons&quot;; &quot;the push beside the bed operated a buzzer at the desk&quot;" hint="push_button" id="SID-04027023-N">
+<Model path="Controls/Button.a2c"/>
+<Model path="Controls/TwoButtonSwitch.a2c"/>
+</Synset>
+<Synset gloss="an equation in which the highest power of an unknown quantity is a square" hint="quadratic_equation" id="SID-06670240-N">
+<Model path="Math/QuadraticEquation.a2c"/>
+</Synset>
+<Synset gloss="fertile egg-laying female bee" hint="queen_bee" id="SID-02207345-N">
+<Model path="Animals/Bugs/QueenBee.a2c"/>
+</Synset>
+<Synset gloss="any of various burrowing animals of the family Leporidae having long ears and short tails; some domesticated and raised for pets or food" hint="rabbit" id="SID-02324045-N">
+<Model path="Animals/Rabbit.a2c"/>
+<Model path="Animals/WhiteRabbit.a2c"/>
+</Synset>
+<Synset gloss="framework for holding objects" hint="rack" id="SID-04038727-N">
+<Model path="Objects/WeightRack.a2c"/>
+</Synset>
+<Synset gloss="heater consisting of a series of pipes for circulating steam or hot water to heat rooms or buildings" hint="radiator" id="SID-04041069-N">
+<Model path="Furniture/Radiator.a2c"/>
+</Synset>
+<Synset gloss="an electronic receiver that detects and demodulates and amplifies transmitted signals" hint="radio" id="SID-04043733-N">
+<Model path="Objects/MilitaryRadio.a2c"/>
+<Model path="Objects/Radio.a2c"/>
+</Synset>
+<Synset gloss="a flat float (usually made of logs or planks) that can be used for transport or as a platform for swimmers" hint="raft" id="SID-04045397-N">
+<Model path="Vehicles/Raft.a2c"/>
+</Synset>
+<Synset gloss="a barrier consisting of a horizontal bar and supports" hint="rail" id="SID-04047401-N">
+<Model path="Skate Park/SoloRail.a2c"/>
+</Synset>
+<Synset gloss="an inclined surface connecting two levels" hint="ramp" id="SID-04051549-N">
+<Model path="Skate Park/RailRamp.a2c"/>
+<Model path="Skate Park/Ramp.a2c"/>
+<Model path="Skate Park/WideRamp.a2c"/>
+</Synset>
+<Synset gloss="any of various long-tailed rodents similar to but larger than a mouse" hint="rat" id="SID-02331046-N">
+<Model path="Hawaii/animals/Rat.a2c"/>
+</Synset>
+<Synset gloss="a quantity of paper; 480 or 500 sheets; one ream equals 20 quires" hint="ream" id="SID-13583137-N">
+<Model path="Objects/PaperReam.a2c"/>
+</Synset>
+<Synset gloss="equipment for making records" hint="recorder" id="SID-04063373-N">
+<Model path="Objects/DataRecorder.a2c"/>
+</Synset>
+<Synset gloss="crested thick-billed North American finch having bright red plumage in the male" hint="redbird" id="SID-01541386-N">
+<Model path="Animals/RedBird.a2c"/>
+</Synset>
+<Synset gloss="a device that can be used to control a machine or apparatus from a distance; &quot;he lost the remote for his TV&quot;" hint="remote_control" id="SID-04074963-N">
+<Model path="Objects/RemoteControl1.a2c"/>
+</Synset>
+<Synset gloss="a pistol with a revolving cylinder (usually having six chambers for bullets)" hint="revolver" id="SID-04086273-N">
+<Model path="Old West/Revolver.a2c"/>
+</Synset>
+<Synset gloss="an open way (generally public) for travel or transportation" hint="road" id="SID-04096066-N">
+<Model path="City/Road.a2c"/>
+</Synset>
+<Synset gloss="someone who leads a wandering unsettled life" hint="roamer" id="SID-10765679-N">
+<Model path="SciFi/GroundRoamer.a2c"/>
+</Synset>
+<Synset gloss="a mechanism that can move automatically" hint="robot" id="SID-02761392-N">
+<Model path="Space/HyperionRobot.a2c"/>
+<Model path="SciFi/BadGuyRobot.a2c"/>
+<Model path="SciFi/GorillaRobot.a2c"/>
+<Model path="SciFi/SpiderRobot.a2c"/>
+<Model path="SciFi/KangarooRobot.a2c"/>
+<Model path="SciFi/KidRobot.a2c"/>
+<Model path="SciFi/KoalaRobot.a2c"/>
+</Synset>
+<Synset gloss="a lump or mass of hard consolidated mineral matter; &quot;he threw a rock at me&quot;" hint="rock" id="SID-09416076-N">
+<Model path="Nature/Rock.a2c"/>
+</Synset>
+<Synset gloss="elevated railway in an amusement park (usually with sharp curves and steep inclines)" hint="roller_coaster" id="SID-04102406-N">
+<Model path="Amusement Park/Coaster.a2c"/>
+</Synset>
+<Synset gloss="utensil consisting of a cylinder (usually of wood) with a handle at each end; used to roll out dough" hint="rolling_pin" id="SID-04103206-N">
+<Model path="Kitchen/RollingPin.a2c"/>
+</Synset>
+<Synset gloss="" hint="room" id="SID-04105893-N">
+<Model path="Environments/room2.a2c"/>
+</Synset>
+<Synset gloss="an associate who shares a room with you" hint="roommate" id="SID-10538518-N">
+<Model path="People/Walking People/Roommate.a2c"/>
+<Model path="People/Roommate.a2c"/>
+</Synset>
+<Synset gloss="a small boat of shallow draft with cross thwarts for seats and rowlocks for oars with which it is propelled" hint="rowboat" id="SID-03199901-N">
+<Model path="Vehicles/Rowboat.a2c"/>
+</Synset>
+<Synset gloss="strongbox where valuables can be safely kept" hint="safe" id="SID-04125021-N">
+<Model path="Objects/Safe.a2c"/>
+</Synset>
+<Synset gloss="a small sailing vessel; usually with a single mast" hint="sailboat" id="SID-04128499-N">
+<Model path="Vehicles/Sailboat.a2c"/>
+</Synset>
+<Synset gloss="tavern consisting of a building with a bar and public rooms; often provides light meals" hint="saloon" id="SID-04018399-N">
+<Model path="Old West/Saloon.a2c"/>
+</Synset>
+<Synset gloss="an Asian skiff usually propelled by two oars" hint="sampan" id="SID-04133114-N">
+<Model path="Vehicles/Shakira.a2c"/>
+</Synset>
+<Synset gloss="a Japanese warrior who was a member of the feudal military aristocracy" hint="samurai" id="SID-10549763-N">
+<Model path="Japan/Samurai.a2c"/>
+</Synset>
+<Synset gloss="young tree" hint="sapling" id="SID-13108481-N">
+<Model path="Nature/Sapling.a2c"/>
+</Synset>
+<Synset gloss="hand tool having a toothed blade for cutting" hint="saw" id="SID-04140064-N">
+<Model path="Objects/Saw.a2c"/>
+</Synset>
+<Synset gloss="a single-reed woodwind with a conical bore" hint="sax" id="SID-04141076-N">
+<Model path="Musical Instruments/Sax.a2c"/>
+</Synset>
+<Synset gloss="scarabaeid beetle considered divine by ancient Egyptians" hint="scarab" id="SID-02172518-N">
+<Model path="Animals/Bugs/Scarab.a2c"/>
+</Synset>
+<Synset gloss="an effigy in the shape of a man to frighten birds away from seeds" hint="scarecrow" id="SID-04143712-N">
+<Model path="Farm/Scarecrow.a2c"/>
+</Synset>
+<Synset gloss="a building where young people receive education; &quot;the school was built in 1932&quot;; &quot;he walked to school every morning&quot;" hint="school" id="SID-04146050-N">
+<Model path="High School/School.a2c"/>
+</Synset>
+<Synset gloss="a person with advanced knowledge of one or more sciences" hint="scientist" id="SID-10560637-N">
+<Model path="People/Walking People/Scientist_woman.a2c"/>
+<Model path="People/MadScientist.a2c"/>
+<Model path="SciFi/ScientistMan.a2c"/>
+<Model path="SciFi/ScientistWoman.a2c"/>
+</Synset>
+<Synset gloss="an edge tool having two crossed pivoting blades" hint="scissors" id="SID-04148054-N">
+<Model path="Objects/Scissors.a2c"/>
+</Synset>
+<Synset gloss="child's two-wheeled vehicle operated by foot" hint="scooter" id="SID-04149374-N">
+<Model path="Vehicles/Scooter.a2c"/>
+</Synset>
+<Synset gloss="arachnid of warm dry regions having a long segmented tail ending in a venomous stinger" hint="scorpion" id="SID-01770393-N">
+<Model path="Animals/Scorpion.a2c"/>
+</Synset>
+<Synset gloss="an underwater diver who uses scuba gear" hint="scuba_diver" id="SID-10565667-N">
+<Model path="People/Walking People/ScubaDiver.a2c"/>
+<Model path="People/ScubaDiver.a2c"/>
+</Synset>
+<Synset gloss="an airplane that can land on or take off from water; &quot;the designer of marine aircraft demonstrated his newest hydroplane&quot;" hint="seaplane" id="SID-04160586-N">
+<Model path="Vehicles/Seaplane.a2c"/>
+</Synset>
+<Synset gloss="the shell of a marine organism" hint="seashell" id="SID-01956764-N">
+<Model path="Ocean/ArcShell.a2c"/>
+</Synset>
+<Synset gloss="plant growing in the sea, especially marine algae" hint="seaweed" id="SID-01397497-N">
+<Model path="Ocean/Seaweed.a2c"/>
+</Synset>
+<Synset gloss="a handcart for serving food" hint="serving_cart" id="SID-04176068-N">
+<Model path="Amusement Park/HotDogCart.a2c"/>
+<Model path="Amusement Park/PopcornCart.a2c"/>
+</Synset>
+<Synset gloss="small crude shelter used as a dwelling" hint="shack" id="SID-03547054-N">
+<Model path="Buildings/Shack.a2c"/>
+<Model path="Buildings/Shanty.a2c"/>
+</Synset>
+<Synset gloss="a U-shaped bar; the open end can be passed through chain links and closed with a bar" hint="shackle" id="SID-04181561-N">
+<Model path="Objects/Shackles.a2c"/>
+</Synset>
+<Synset gloss="any of numerous elongate mostly marine carnivorous fishes with heterocercal caudal fins and tough skin covered with small toothlike scales" hint="shark" id="SID-01482330-N">
+<Model path="Animals/Shark.a2c"/>
+<Model path="Ocean/Shark.a2c"/>
+</Synset>
+<Synset gloss="a structure that provides privacy and protection from danger" hint="shelter" id="SID-04191595-N">
+<Model path="Ancient/Shelter.a2c"/>
+</Synset>
+<Synset gloss="the principal law-enforcement officer in a county" hint="sheriff" id="SID-10589140-N">
+<Model path="Old West/Sheriff.a2c"/>
+</Synset>
+<Synset gloss="a protective covering or structure" hint="shield" id="SID-04192858-N">
+<Model path="Medieval/Shield.a2c"/>
+</Synset>
+<Synset gloss="a vessel that carries passengers or freight" hint="ship" id="SID-04194289-N">
+<Model path="Ancient/AncientShip.a2c"/>
+</Synset>
+<Synset gloss="a collection of shrubs growing together" hint="shrubbery" id="SID-08439694-N">
+<Model path="Nature/Shrubbery.a2c"/>
+</Synset>
+<Synset gloss="a propeller plane with a single propeller" hint="single_prop" id="SID-04222723-N">
+<Model path="Vehicles/T3A.a2c"/>
+</Synset>
+<Synset gloss="plumbing fixture consisting of a water basin fixed to a wall or floor and having a drainpipe" hint="sink" id="SID-04223580-N">
+<Model path="Objects/Sink.a2c"/>
+</Synset>
+<Synset gloss="a stringed instrument of India; has a long neck and movable frets; has 6 or 7 metal strings for playing and usually 13 resonating strings" hint="sitar" id="SID-04224842-N">
+<Model path="Musical Instruments/Sitar.a2c"/>
+</Synset>
+<Synset gloss="a carton containing six bottles or cans" hint="sixpack" id="SID-04225222-N">
+<Model path="Kitchen/Food/SixPack.a2c"/>
+</Synset>
+<Synset gloss="a board with wheels that is ridden in a standing or crouching position and propelled by foo" hint="skateboard" id="SID-04225987-N">
+<Model path="Skate Park/Skateboard.a2c"/>
+</Synset>
+<Synset gloss="someone who skates" hint="skater" id="SID-10604491-N">
+<Model path="Skate Park/SkaterGirl.a2c"/>
+<Model path="Skate Park/SkaterGuy.a2c"/>
+<Model path="People/SkaterGirl.a2c"/>
+</Synset>
+<Synset gloss="the hard structure (bones and cartilages) that provides a frame for the body of an animal" hint="skeleton" id="SID-05585383-N">
+<Model path="Spooky/Skeleton.a2c"/>
+</Synset>
+<Synset gloss="a very tall building with many stories" hint="skyscraper" id="SID-04233124-N">
+<Model path="City/Skyscraper1.a2c"/>
+<Model path="City/Skyscraper2.a2c"/>
+</Synset>
+<Synset gloss="a person who shirks his work or duty (especially one who tries to evade military service in wartime)" hint="slacker" id="SID-10608385-N">
+<Model path="High School/Students and Teachers/Slacker.a2c"/>
+</Synset>
+<Synset gloss="a serving that has been cut from a larger portion; &quot;a piece of pie&quot;; &quot;a slice of bread&quot;" hint="slice" id="SID-07654667-N">
+<Model path="Shapes/Slice.a2c"/>
+</Synset>
+<Synset gloss="projector that projects an enlarged image of a slide onto a screen" hint="slide_projector" id="SID-04238617-N">
+<Model path="Objects/SlideProjector.a2c"/>
+</Synset>
+<Synset gloss="a plaything consisting of a Y-shaped stick with elastic between the arms; used to propel small stones" hint="slingshot" id="SID-04240097-N">
+<Model path="Objects/Slingshot.a2c"/>
+</Synset>
+<Synset gloss="a cloud of fine particles suspended in a gas" hint="smoke" id="SID-11508092-N">
+<Model path="Special Effects/SmokeAnimation.a2c"/>
+</Synset>
+<Synset gloss="limbless scaly elongate reptile; some are venomous" hint="snake" id="SID-01726692-N">
+<Model path="Animals/Snake.a2c"/>
+</Synset>
+<Synset gloss="a canvas shoe with a pliable rubber sole" hint="sneaker" id="SID-03472535-N">
+<Model path="Objects/Sneaker.a2c"/>
+</Synset>
+<Synset gloss="a figure of a person made of packed snow" hint="snowman" id="SID-04251983-N">
+<Model path="People/Snowman.a2c"/>
+<Model path="People/SnowWoman.a2c"/>
+</Synset>
+<Synset gloss="tracked vehicle for travel on snow having skis in front" hint="snowmobile" id="SID-04252077-N">
+<Model path="Vehicles/Snowmobile.a2c"/>
+</Synset>
+<Synset gloss="an inflated ball used in playing soccer" hint="soccer_ball" id="SID-04254680-N">
+<Model path="Sports/SoccerGoal.a2c"/>
+</Synset>
+<Synset gloss="electrical device consisting of a large array of connected solar cells" hint="solar_panel" id="SID-04257790-N">
+<Model path="Objects/SolarPanel.a2c"/>
+</Synset>
+<Synset gloss="a bowl for serving soup" hint="soup_bowl" id="SID-04263257-N">
+<Model path="Kitchen/Food/SoupBowl.a2c"/>
+</Synset>
+<Synset gloss="a spacecraft designed to carry a crew into interstellar space (especially in science fiction)" hint="spaceship" id="SID-04304215-N">
+<Model path="SciFi/Spaceship.a2c"/>
+<Model path="SciFi/DropShip.a2c"/>
+<Model path="SciFi/Fighter.a2c"/>
+<Model path="SciFi/GrayJumpJet.a2c"/>
+<Model path="SciFi/GreenJumJet.a2c"/>
+</Synset>
+<Synset gloss="" hint="spacewalker" id="SID-10629329-N">
+<Model path="Space/Astronaut.a2c"/>
+</Synset>
+<Synset gloss="a turner with a narrow flexible blade" hint="spatula" id="SID-04270147-N">
+<Model path="Kitchen/Spatula.a2c"/>
+</Synset>
+<Synset gloss="electro-acoustic transducer that converts electrical signals into sounds loud enough to be heard at a distance" hint="speaker" id="SID-03691459-N">
+<Model path="Musical Instruments/Speaker.a2c"/>
+<Model path="Musical Instruments/Speakers.a2c"/>
+</Synset>
+<Synset gloss="a three-dimensional closed surface such that every point on the surface is equidistant from the center" hint="sphere" id="SID-13898899-N">
+<Model path="Shapes/Sphere.a2c"/>
+<Model path="Shapes/SphereHighPoly.a2c"/>
+</Synset>
+<Synset gloss="one of a number of large stone statues with the body of a lion and the head of a man that were built by the ancient Egyptians" hint="sphinx" id="SID-04274807-N">
+<Model path="Egypt/Sphinx.a2c"/>
+</Synset>
+<Synset gloss="a small low car with a high-powered engine; usually seats two persons" hint="sport_car" id="SID-04285008-N">
+<Model path="Vehicles/ConvertibleCorvette.a2c"/>
+</Synset>
+<Synset gloss="a small low car with a high-powered engine; usually seats two persons" hint="sports_car" id="SID-04285008-N">
+<Model path="Vehicles/ConvertibleCorvette.a2c"/>
+</Synset>
+<Synset gloss="a lamp that produces a strong beam of light to illuminate a restricted area; used to focus attention of a stage performer" hint="spotlight" id="SID-04286575-N">
+<Model path="Lights/StageSpotLight.a2c"/>
+</Synset>
+<Synset gloss="a metal elastic device that returns to its shape or position when pushed or pulled or pressed; &quot;the spring was broken&quot;" hint="spring" id="SID-04288272-N">
+<Model path="Objects/Spring.a2c"/>
+</Synset>
+<Synset gloss="(geometry) a plane rectangle with four equal sides and four right angles; a four-sided regular polygon; &quot;you can compute the area of a square if you know the length of its sides&quot;" hint="square" id="SID-13878634-N">
+<Model path="Shapes/Square.a2c"/>
+</Synset>
+<Synset gloss="a kind of arboreal rodent having a long bushy tail" hint="squirrel" id="SID-02355227-N">
+<Model path="Animals/Squirrel.a2c"/>
+</Synset>
+<Synset gloss="a large structure for open-air sports or entertainments" hint="stadium" id="SID-04295881-N">
+<Model path="City/Stadium.a2c"/>
+</Synset>
+<Synset gloss="a machine that inserts staples into sheets of paper in order to fasten them together" hint="stapler" id="SID-04303497-N">
+<Model path="Objects/Stapler.a2c"/>
+</Synset>
+<Synset gloss="any celestial body visible (as a point of light) from the Earth at night" hint="star" id="SID-09444783-N">
+<Model path="Special Effects/SeeingStars.a2c"/>
+</Synset>
+<Synset gloss="a car that has a long body and rear door with space behind rear seat" hint="station_wagon" id="SID-02814533-N">
+<Model path="Vehicles/StationWagon.a2c"/>
+</Synset>
+<Synset gloss="a sculpture representing a human or animal" hint="statue" id="SID-04306847-N">
+<Model path="City/Statue.a2c"/>
+</Synset>
+<Synset gloss="herbivorous ornithischian dinosaur with a row of bony plates along its back and a spiked tail probably used as a weapon" hint="stegosaur" id="SID-01701859-N">
+<Model path="Animals/Dinosaurs/Stegosaurus.a2c"/>
+</Synset>
+<Synset gloss="reproducer in which two microphones feed two or more loudspeakers to give a three-dimensional effect to the sound" hint="stereo" id="SID-04315948-N">
+<Model path="Objects/Stereo.a2c"/>
+</Synset>
+<Synset gloss="large venomous ray with large barbed spines near the base of a thin whiplike tail capable of inflicting severe wounds" hint="stingray" id="SID-01498041-N">
+<Model path="Ocean/Stingray.a2c"/>
+</Synset>
+<Synset gloss="close-fitting hosiery to cover the foot and leg; come in matched pairs (usually used in the plural)" hint="stocking" id="SID-04323819-N">
+<Model path="Holidays/Christmas/Stocking.a2c"/>
+</Synset>
+<Synset gloss="a simple seat without a back or arms" hint="stool" id="SID-04326896-N">
+<Model path="Kitchen/Stool.a2c"/>
+<Model path="Farm/Stool.a2c"/>
+</Synset>
+<Synset gloss="plant fiber used e.g. for making baskets and hats or as fodder" hint="straw" id="SID-14959939-N">
+<Model path="Farm/StrawBale.a2c"/>
+</Synset>
+<Synset gloss="a prostitute who attracts customers by walking the streets" hint="street_girl" id="SID-10663315-N">
+<Model path="People/StreetGirl.a2c"/>
+</Synset>
+<Synset gloss="a mechanical device used to make something larger (as shoes or gloves) by stretching it" hint="stretcher" id="SID-04336996-N">
+<Model path="Furniture/Stretcher.a2c"/>
+</Synset>
+<Synset gloss="a learner who is enrolled in an educational institution" hint="student" id="SID-10665698-N">
+<Model path="High School/Students and Teachers/Student1.a2c"/>
+<Model path="People/Walking People/Student1.a2c"/>
+<Model path="People/Student1.a2c"/>
+</Synset>
+<Synset gloss="any plant of the genus Helianthus having large flower heads with dark disk florets and showy yellow rays" hint="sunflower" id="SID-11978233-N">
+<Model path="NAture/Sunflower.a2c"/>
+</Synset>
+<Synset gloss="a narrow buoyant board for riding surf" hint="surfboard" id="SID-04363559-N">
+<Model path="Hawaii/Transportation/Surfboard.a2c"/>
+</Synset>
+<Synset gloss="rice (with raw fish) wrapped in seaweed" hint="sushi" id="SID-07879450-N">
+<Model path="Kitchen/Food/Sushi.a2c"/>
+</Synset>
+<Synset gloss="mechanical device used as a plaything to support someone swinging back and forth" hint="swing" id="SID-04371774-N">
+<Model path="Amusement Park/Swings.a2c"/>
+</Synset>
+<Synset gloss="control consisting of a mechanical or electrical or electronic device for making or breaking or changing the connections in a circuit" hint="switch" id="SID-04372370-N">
+<Model path="Controls/LightSwitch.a2c"/>
+<Model path="Controls/Switch.a2c"/>
+</Synset>
+<Synset gloss="a chair that swivels on its base" hint="swivel_chair" id="SID-04373704-N">
+<Model path="Furniture/LabChair.a2c"/>
+</Synset>
+<Synset gloss="a cutting or thrusting weapon that has a long metal blade and a hilt with a hand guard" hint="sword" id="SID-04373894-N">
+<Model path="Japan/Naginata.a2c"/>
+<Model path="Objects/Katana.a2c"/>
+<Model path="Medieval/Sword.a2c"/>
+</Synset>
+<Synset gloss="a medical instrument used to inject or withdraw fluids" hint="syringe" id="SID-04376876-N">
+<Model path="Objects/Syringe.a2c"/>
+</Synset>
+<Synset gloss="a piece of furniture having a smooth flat top that is usually supported by one or more vertical legs; &quot;it was a sturdy table&quot;" hint="table" id="SID-04379243-N">
+<Model path="Kitchen/Table.a2c"/>
+<Model path="High School/CafeteriaTable.a2c"/>
+<Model path="Furniture/BigTable.a2c"/>
+<Model path="Furniture/Table.a2c"/>
+<Model path="Objects/BookTable.a2c"/>
+<Model path="Park/PicnicTable.a2c"/>
+</Synset>
+<Synset gloss="a lamp that sits on a table" hint="table_lamp" id="SID-04380533-N">
+<Model path="Furniture/Lamp.a2c"/>
+</Synset>
+<Synset gloss="a chair with an arm that has been widened for writing" hint="tablet-armed_chair" id="SID-04381450-N">
+<Model path="High School/DeskChair.a2c"/>
+</Synset>
+<Synset gloss="an enclosed armored military vehicle; has a cannon and moves on caterpillar treads" hint="tank" id="SID-04389033-N">
+<Model path="Vehicles/Tank.a2c"/>
+</Synset>
+<Synset gloss="memory device consisting of a long thin plastic strip coated with iron oxide; used to record audio or video signals or to store computer information; &quot;he took along a dozen tapes to record the interview&quot;" hint="tape" id="SID-03708036-N">
+<Model path="Objects/Tape.a2c"/>
+</Synset>
+<Synset gloss="a person whose occupation is teaching" hint="teacher" id="SID-10694258-N">
+<Model path="High School/Students and Teachers/Teacher.a2c"/>
+<Model path="People/Walking People/Teacher.a2c"/>
+<Model path="People/Teacher.a2c"/>
+</Synset>
+<Synset gloss="pot for brewing tea; usually has a spout and handle" hint="teapot" id="SID-04398044-N">
+<Model path="Kitchen/Food/Teapot.a2c"/>
+<Model path="Kitchen/Teapot.a2c"/>
+</Synset>
+<Synset gloss="plaything consisting of a child's toy bear (usually plush and stuffed with soft materials)" hint="teddy_bear" id="SID-04399382-N">
+<Model path="Objects/TeddyBear.a2c"/>
+</Synset>
+<Synset gloss="electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds; &quot;I talked to him on the telephone&quot;" hint="telephone" id="SID-04401088-N">
+<Model path="Objects/Phone.a2c"/>
+</Synset>
+<Synset gloss="place of worship consisting of an edifice for the worship of a deity" hint="temple" id="SID-04407435-N">
+<Model path="Japan/Temple.a2c"/>
+</Synset>
+<Synset gloss="ball about the size of a fist used in playing tennis" hint="tennis_ball" id="SID-04409515-N">
+<Model path="Sports/TennisBall.a2c"/>
+</Synset>
+<Synset gloss="a racket used to play tennis" hint="tennis_racket" id="SID-04409806-N">
+<Model path="Sports/TennisRacket.a2c"/>
+</Synset>
+<Synset gloss="a portable shelter (usually of canvas stretched over supporting poles and fastened to the ground with ropes and pegs); &quot;he pitched his tent near the creek&quot;" hint="tent" id="SID-04411264-N">
+<Model path="Medieval/Tent.a2c"/>
+</Synset>
+<Synset gloss="a Native American tent; usually of conical shape" hint="tepee" id="SID-04412416-N">
+<Model path="Old West/Teepee.a2c"/>
+</Synset>
+<Synset gloss="a piece of ground having specific characteristics or military potential; &quot;they decided to attack across the rocky terrain&quot;" hint="terrain" id="SID-08674563-N">
+<Model path="City/CityTerrain.a2c"/>
+<Model path="Old West/OldWestTerrain.a2c"/>
+</Synset>
+<Synset gloss="any polyhedron having four plane faces" hint="tetrahedron" id="SID-13915113-N">
+<Model path="Shapes/tetrahedron.a2c"/>
+</Synset>
+<Synset gloss="a valve that regulates the supply of fuel to the engine" hint="throttle" id="SID-02670186-N">
+<Model path="Controls/Throttle.a2c"/>
+</Synset>
+<Synset gloss="huge quadrupedal herbivorous dinosaur common in North America in the late Jurassic" hint="thunder_lizard" id="SID-01709484-N">
+<Model path="Animals/Dinosaurs/Mosasaur.a2c"/>
+</Synset>
+<Synset gloss="large feline of forests in most of Asia having a tawny coat with black stripes; endangered" hint="tiger" id="SID-02129604-N">
+<Model path="Animals/Tigrr.a2c"/>
+</Synset>
+<Synset gloss="a kitchen appliance (usually electric) for toasting bread" hint="toaster" id="SID-04442312-N">
+<Model path="Kitchen/Toaster.a2c"/>
+</Synset>
+<Synset gloss="weapon consisting of a fighting ax; used by North American Indians" hint="tomahawk" id="SID-04449966-N">
+<Model path="Old West/Tomahawk.a2c"/>
+</Synset>
+<Synset gloss="a stone that is used to mark a grave" hint="tombstone" id="SID-03455488-N">
+<Model path="Spooky/Tombstone.a2c"/>
+</Synset>
+<Synset gloss="usually herbivorous land turtles having clawed elephant-like limbs; worldwide in arid area except Australia and Antarctica" hint="tortoise" id="SID-01670092-N">
+<Model path="Animals/Tortoise.a2c"/>
+</Synset>
+<Synset gloss="a ring-shaped surface generated by rotating a circle around an axis that does not intersect the circle" hint="torus" id="SID-13900088-N">
+<Model path="Shapes/HalfTorus.a2c"/>
+<Model path="Shapes/QuarterTorus.a2c"/>
+<Model path="Shapes/Torus.a2c"/>
+</Synset>
+<Synset gloss="a structure taller than its diameter; can stand alone or be attached to a larger building" hint="tower" id="SID-04460130-N">
+<Model path="Medieval/Tower.a2c"/>
+</Synset>
+<Synset gloss="a house that is one of a row of identical houses situated side by side and sharing common walls" hint="town_house" id="SID-04115256-N">
+<Model path="Buildings/Townhouse1.a2c"/>
+<Model path="Buildings/Townhouse2.a2c"/>
+<Model path="City/Townhouse1.a2c"/>
+<Model path="City/Townhouse2.a2c"/>
+<Model path="City/Townhouse3.a2c"/>
+<Model path="City/Townhouse4.a2c"/>
+<Model path="City/Townhouse5.a2c"/>
+<Model path="City/Townhouse6.a2c"/>
+</Synset>
+<Synset gloss="an artifact designed to be played with" hint="toy" id="SID-03964744-N">
+<Model path="Objects/ToyPlane.a2c"/>
+</Synset>
+<Synset gloss="chest for storage of toys" hint="toy_box" id="SID-04462011-N">
+<Model path="Furniture/ToyBox1.a2c"/>
+<Model path="Furniture/ToyBox2.a2c"/>
+</Synset>
+<Synset gloss="a doll that resembles a soldier" hint="toy_soldier" id="SID-04462318-N">
+<Model path="People/Walking People/Toy Soldier.a2c"/>
+<Model path="People/ToySoldier.a2c"/>
+</Synset>
+<Synset gloss="public transport provided by a line of railway cars coupled together and drawn by a locomotive; &quot;express trains don't stop at Princeton Junction&quot;" hint="train" id="SID-04468005-N">
+<Model path="Vehicles/Train.a2c"/>
+</Synset>
+<Synset gloss="a tall perennial woody plant having a main trunk and branches forming a distinct elevated crown; includes both gymnosperms and angiosperms" hint="tree" id="SID-13104059-N">
+<Model path="Nature/ArtsyTree.a2c"/>
+</Synset>
+<Synset gloss="a prism whose bases are triangles" hint="triangular_prism" id="SID-13885111-N">
+<Model path="Shapes/TriangularPrism.a2c"/>
+</Synset>
+<Synset gloss="huge ceratopsian dinosaur having three horns and the neck heavily armored with a very solid frill" hint="triceratops" id="SID-01704323-N">
+<Model path="Animals/Dinosaurs/Triceratops.a2c"/>
+</Synset>
+<Synset gloss="(Scandanavian folklore) a supernatural creature (either a dwarf or a giant) that is supposed to live in caves or in the mountains" hint="troll" id="SID-09502481-N">
+<Model path="Medieval/Troll.a2c"/>
+</Synset>
+<Synset gloss="a wheeled vehicle that runs on rails and is propelled by electricity" hint="trolley" id="SID-04335435-N">
+<Model path="Vehicles/Trolley.a2c"/>
+</Synset>
+<Synset gloss="a brass instrument consisting of a long tube whose length can be varied by a U-shaped slide" hint="trombone" id="SID-04487394-N">
+<Model path="Musical Instruments/Trombone.a2c"/>
+</Synset>
+<Synset gloss="an automotive vehicle suitable for hauling" hint="truck" id="SID-04490091-N">
+<Model path="Vehicles/CementTruck.a2c"/>
+</Synset>
+<Synset gloss="a hollow cylindrical shape" hint="tube" id="SID-13901321-N">
+<Model path="Shapes/Tube.a2c"/>
+</Synset>
+<Synset gloss="any of numerous perennial bulbous herbs having linear or broadly lanceolate leaves and usually a single showy flower" hint="tulip" id="SID-12454159-N">
+<Model path="Nature/Tulip.a2c"/>
+</Synset>
+<Synset gloss="any plant that breaks away from its roots in autumn and is driven by the wind as a light rolling mass" hint="tumbleweed" id="SID-12554911-N">
+<Model path="Nature/Tumbleweed.a2c"/>
+</Synset>
+<Synset gloss="cooked turkey, food" hint="turkey" id="SID-07647731-N">
+<Model path="Pilgrims/Turkey.a2c"/>
+</Synset>
+<Synset gloss="a circular segment of a curve; &quot;a bend in the road&quot;; &quot;a crook in the path&quot;" hint="turn" id="SID-13869327-N">
+<Model path="City/Turn.a2c"/>
+</Synset>
+<Synset gloss="any of various aquatic and land reptiles having a bony shell and flipper-like limbs for swimming" hint="turtle" id="SID-01662784-N">
+<Model path="Animals/Turtle.a2c"/>
+</Synset>
+<Synset gloss="broadcasting visual images of stationary or moving objects; &quot;she is a star of screen and video&quot;; &quot;Television is a medium because it is neither rare nor well done&quot; - Ernie Kovacs" hint="tv" id="SID-06277280-N">
+<Model path="Objects/Tv.a2c"/>
+</Synset>
+<Synset gloss="the visual percept of a region; &quot;the most desirable feature of the park are the beautiful views&quot;" hint="view" id="SID-05933246-N">
+<Model path="Beach/BeachTerrain.a2c"/>
+</Synset>
+<Synset gloss="a candle lighted by a worshiper in a church" hint="vigil_candle" id="SID-04534895-N">
+<Model path="Objects/CandleJar.a2c"/>
+</Synset>
+<Synset gloss="a fissure in the earth's crust (or in the surface of some other planet) through which molten lava and gases erupt" hint="volcano" id="SID-09470550-N">
+<Model path="Nature/Volcano.a2c"/>
+<Model path="Hawaii/environment/Volcano-2.a2c"/>
+</Synset>
+<Synset gloss="an inflated ball used in playing volleyball" hint="volleyball" id="SID-04540053-N">
+<Model path="Sports/Volleyball.a2c"/>
+</Synset>
+<Synset gloss="the high net that separates the two teams and over which the volleyball must pass" hint="volleyball_net" id="SID-04540255-N">
+<Model path="Sports/VolleyballNet.a2c"/>
+</Synset>
+<Synset gloss="any of various kinds of wheeled vehicles drawn by an animal or a tractor" hint="wagon" id="SID-04543158-N">
+<Model path="Old West/Wagon.a2c"/>
+</Synset>
+<Synset gloss="a clock mounted on a wall" hint="wall_clock" id="SID-04548280-N">
+<Model path="Objects/CatClock.a2c"/>
+</Synset>
+<Synset gloss="a rod used by a magician or water diviner" hint="wand" id="SID-04549629-N">
+<Model path="Objects/MagicianWand.a2c"/>
+</Synset>
+<Synset gloss="a home appliance for washing clothes and linens automatically" hint="washing_machine" id="SID-04554684-N">
+<Model path="Objects/WashingMachine.a2c"/>
+</Synset>
+<Synset gloss="a device for cooling and dispensing drinking water" hint="water_cooler" id="SID-04559166-N">
+<Model path="Kitchen/WaterCooler.a2c"/>
+</Synset>
+<Synset gloss="a steep descent of the water of a river" hint="waterfall" id="SID-09475292-N">
+<Model path="Nature/WaterFall.a2c"/>
+</Synset>
+<Synset gloss="mechanical device attached to an elevated structure; rotates freely to show the direction of the wind" hint="weathervane" id="SID-04568069-N">
+<Model path="Farm/Weathervane.a2c"/>
+</Synset>
+<Synset gloss="a deep hole or shaft dug or drilled to obtain water or oil or gas or brine" hint="well" id="SID-04572344-N">
+<Model path="Objects/Well.a2c"/>
+</Synset>
+<Synset gloss="grains of common wheat; sometimes cooked whole or cracked as cereal; usually ground into flour" hint="wheat" id="SID-07803545-N">
+<Model path="Kitchen/Food/MiniWheat.a2c"/>
+</Synset>
+<Synset gloss="an instrument with a handle and a flexible lash that is used for whipping" hint="whip" id="SID-04577769-N">
+<Model path="objects/Whip.a2c"/>
+</Synset>
+<Synset gloss="Old World wild swine having a narrow body and prominent tusks from which most domestic swine come; introduced in United States" hint="wild_boar" id="SID-02396427-N">
+<Model path="Animals/Boar.a2c"/>
+</Synset>
+<Synset gloss="mechanical device used to wind another device that is driven by a spring (as a clock)" hint="winder" id="SID-04586581-N">
+<Model path="Objects/WindupKey.a2c"/>
+</Synset>
+<Synset gloss="a mill that is powered by the wind" hint="windmill" id="SID-04587559-N">
+<Model path="Buildings/Windmill.a2c"/>
+</Synset>
+<Synset gloss="one who practices magic or sorcery" hint="wizard" id="SID-10625860-N">
+<Model path="Medieval/Wizard.a2c"/>
+</Synset>
+<Synset gloss="any of various predatory carnivorous canine mammals of North America and Eurasia that usually hunt in packs" hint="wolf" id="SID-02114100-N">
+<Model path="Animals/Wolf.a2c"/>
+</Synset>
+<Synset gloss="an adult female person (as opposed to a man); &quot;the woman kept house while the man hunted&quot;" hint="woman" id="SID-10787470-N">
+<Model path="Ancient/Woman.a2c"/>
+<Model path="Ancient/Woman2.a2c"/>
+<Model path="People/Woman.a2c"/>
+<Model path="Hawaii/People/Kahuna.a2c"/>
+<Model path="Hawaii/People/WomanBrown.a2c"/>
+<Model path="Hawaii/People/WomanGreen-2.a2c"/>
+</Synset>
+<Synset gloss="flower arrangement consisting of a circular band of foliage or flowers for ornamental purposes" hint="wreath" id="SID-04606014-N">
+<Model path="Holidays/Christmas/Wreath.a2c"/>
+</Synset>
+<Synset gloss="a dead body that has been brought back to life by a supernatural force" hint="zombie" id="SID-10805638-N">
+<Model path="Spooky/Zombie.a2c"/>
+<Model path="People/Zombie.a2c"/>
+</Synset>
+</Synsets>
